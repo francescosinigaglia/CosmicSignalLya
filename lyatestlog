@@ -1,0 +1,2522 @@
+---------------------------------------------------------
+Code to populate lightcone DM fields with galaxies/haloes
+---------------------------------------------------------
+
+Reading input ...
+... done!
+
+Getting number counts via parametric bias ...
+Number counts diagnostics (min, max, mean):  0.0 3.0 0.0005572729766803841
+... done!
+
+Populating lightcone with objects ...
+Tracer positions diagnostics:  150.0500600731558 9849.486825969909 151.74959401217802 9847.36099005818 151.0999207708803 9849.800267106553
+... done!
+
+Mapping tracers positions from real to redshift space ...
+... done!
+
+The end
+---------------------------------------------------------
+Code to populate lightcone DM fields with galaxies/haloes
+---------------------------------------------------------
+[1.         1.         1.         ... 1.00003628 1.00001513 0.99999451]
+[1.0000013  1.0000737  0.99999871 ... 0.9999987  0.99996837 0.99999826]
+-179.99973180138954 179.99984108441626 [-1.78760394e+02 -1.78794518e+02  1.79938738e+02 ... -1.49311657e-01
+  6.96420162e-02  2.62426433e-01]
+-89.88634132649999 89.95011480278039 [-0.98177128 -0.02344336 -1.5769132  ... -1.2314656   0.05862764
+  1.53755039]
+1.6384422019167186 3.812685049925333 [3.79742415 3.79945779 3.80265462 ... 3.80067109 3.79434349 3.79824321]
+The end
+-----------------------------------------------------------
+-----------------------------------------------------------
+WARNING: Not loading mcmc in pyigm.fN   
+ Install pymc if you want it
+-----------------------------------------------------------
+---------------------------------------------------------
+Code to populate lightcone DM fields with galaxies/haloes
+---------------------------------------------------------
+... done!
+
+Using P14 spline values to generate a default model
+Loading: /global/homes/f/fsin/.local/perlmutter/python-3.11/lib/python3.11/site-packages/pyigm/data/fN/fN_spline_z24.fits.gz
+3343.3128775339287 4850.461817907937
+Use pyigm to compute dNdz.
+
+Reading input ...
+Getting number counts via parametric bias ...
+Number counts diagnostics (min, max, mean):  0.0 3.0 0.000895872427983539
+... done!
+
+Populating lightcone with objects ...
+Tracer positions diagnostics:  151.67626953125 9849.8486328125 150.32568359375 9849.884765625 150.2861328125 9848.9599609375
+... done!
+
+Mapping tracers positions from real to redshift space ...
+... done!
+
+The end
+
+---------------------------------------------------------
+Code to populate lightcone DM fields with galaxies/haloes
+---------------------------------------------------------
+The end
+--------------------------------
+Extract and regrid Lya skewers
+--------------------------------
+Read QSO positions ...
+... done!
+
+368
+Min, max, mean flux lya:  0.0 1.0 0.987312963264266
+369
+Min, max, mean flux lya:  0.0 1.0 0.9873422572023871
+370
+Min, max, mean flux lya:  0.0 1.0 0.986858530043493
+371
+Min, max, mean flux lya:  0.0 1.0 0.9878647305260151
+372
+Min, max, mean flux lya:  0.0 1.0 0.9865892208356359
+373
+Min, max, mean flux lya:  0.0 1.0 0.9862769625824891
+374
+Min, max, mean flux lya:  0.0 1.0 0.9872767424985638
+375
+Min, max, mean flux lya:  0.0 1.0 0.9867050468129721
+784
+Min, max, mean flux lya:  0.0 1.0 0.9873094357229515
+785
+Min, max, mean flux lya:  0.0 1.0 0.986463707250423
+786
+Min, max, mean flux lya:  0.0 1.0 0.9866146925342965
+787
+Min, max, mean flux lya:  0.0 1.0 0.9869718039679731
+788
+Min, max, mean flux lya:  0.0 1.0 0.9869819417356027
+789
+Min, max, mean flux lya:  0.0 1.0 0.9869707459189444
+790
+Min, max, mean flux lya:  0.0 1.0 0.9867932189307872
+791
+Min, max, mean flux lya:  0.0 1.0 0.9859491755137036
+304
+Min, max, mean flux lya:  0.0 1.0 0.986709916681372
+305
+Min, max, mean flux lya:  0.0 1.0 0.9865226308717142
+306
+Min, max, mean flux lya:  0.0 1.0 0.9858550050711403
+307
+Min, max, mean flux lya:  0.0 1.0 0.9863890891859253
+308
+Min, max, mean flux lya:  0.0 1.0 0.9869592484374636
+309
+Min, max, mean flux lya:  0.0 1.0 0.9869439072135812
+310
+Min, max, mean flux lya:  0.0 1.0 0.9858159506175862
+311
+Min, max, mean flux lya:  0.0 1.0 0.9867295467776568
+1000
+Min, max, mean flux lya:  0.0 1.0 0.9861078448936109
+1001
+Min, max, mean flux lya:  0.0 1.0 0.9870306278395792
+1002
+Min, max, mean flux lya:  0.0 1.0 0.9861414500227035
+1003
+Min, max, mean flux lya:  0.0 1.0 0.9871778595140118
+1004
+Min, max, mean flux lya:  0.0 1.0 0.9868396009205295
+1005
+Min, max, mean flux lya:  0.0 1.0 0.9871463372684068
+1006
+Min, max, mean flux lya:  0.0 1.0 0.9866933080820005
+1007
+Min, max, mean flux lya:  0.0 1.0 0.9869543941897142
+472
+Min, max, mean flux lya:  0.0 1.0 0.9885514300023476
+473
+Min, max, mean flux lya:  0.0 1.0 0.9877698385970509
+474
+Min, max, mean flux lya:  0.0 1.0 0.988068057378907
+475
+Min, max, mean flux lya:  0.0 1.0 0.9877643051275027
+476
+Min, max, mean flux lya:  0.0 1.0 0.9883308571681313
+477
+Min, max, mean flux lya:  0.0 1.0 0.9877783887872122
+478
+Min, max, mean flux lya:  0.0 1.0 0.9879273931603526
+479
+Min, max, mean flux lya:  0.0 1.0 0.9880234263759831
+264
+Min, max, mean flux lya:  0.0 1.0 0.9860941083789004
+265
+Min, max, mean flux lya:  0.0 1.0 0.9858244296698515
+266
+Min, max, mean flux lya:  0.0 1.0 0.9870628104049575
+267
+Min, max, mean flux lya:  0.0 1.0 0.986177713727809
+268
+Min, max, mean flux lya:  0.0 1.0 0.9855621318101969
+269
+Min, max, mean flux lya:  0.0 1.0 0.9863347560163075
+270
+Min, max, mean flux lya:  0.0 1.0 0.9865231342773588
+271
+Min, max, mean flux lya:  0.0 1.0 0.9866032353278026
+272
+Min, max, mean flux lya:  0.0 1.0 0.9870123777458689
+273
+Min, max, mean flux lya:  0.0 1.0 0.9868015719582257
+274
+Min, max, mean flux lya:  0.0 1.0 0.986548696782648
+275
+Min, max, mean flux lya:  0.0 1.0 0.9871878111120254
+276
+Min, max, mean flux lya:  0.0 1.0 0.987111634112177
+277
+Min, max, mean flux lya:  0.0 1.0 0.9867528703234894
+278
+Min, max, mean flux lya:  0.0 1.0 0.9865597772108726
+279
+Min, max, mean flux lya:  0.0 1.0 0.9874069201399669
+496
+Min, max, mean flux lya:  0.0 1.0 0.9874867393945881
+497
+Min, max, mean flux lya:  0.0 1.0 0.9869845836884767
+498
+Min, max, mean flux lya:  0.0 1.0 0.9868795334864044
+499
+Min, max, mean flux lya:  0.0 1.0 0.9870837306621862
+500
+Min, max, mean flux lya:  0.0 1.0 0.987329970458146
+501
+Min, max, mean flux lya:  0.0 1.0 0.9866869040708335
+502
+Min, max, mean flux lya:  0.0 1.0 0.9866813772306782
+503
+Min, max, mean flux lya:  0.0 1.0 0.9873533247467384
+376
+Min, max, mean flux lya:  0.0 1.0 0.9869553349797349
+377
+Min, max, mean flux lya:  0.0 1.0 0.9867454181342245
+378
+Min, max, mean flux lya:  0.0 1.0 0.9869918611290815
+379
+Min, max, mean flux lya:  0.0 1.0 0.9870699832271631
+380
+Min, max, mean flux lya:  0.0 1.0 0.9870587841485804
+381
+Min, max, mean flux lya:  0.0 1.0 0.9866203030447299
+382
+Min, max, mean flux lya:  0.0 1.0 0.9867360016806528
+383
+Min, max, mean flux lya:  0.0 1.0 0.9863214989828357
+656
+Min, max, mean flux lya:  0.0 1.0 0.9869023116990028
+657
+Min, max, mean flux lya:  0.0 1.0 0.9872137194626555
+658
+Min, max, mean flux lya:  0.0 1.0 0.9872676717151055
+659
+Min, max, mean flux lya:  0.0 1.0 0.9862513943639994
+660
+Min, max, mean flux lya:  0.0 1.0 0.9876557406117984
+661
+Min, max, mean flux lya:  0.0 1.0 0.9869218791790457
+662
+Min, max, mean flux lya:  0.0 1.0 0.9861231981249337
+663
+Min, max, mean flux lya:  0.0 1.0 0.9869599735877992
+1456
+Min, max, mean flux lya:  0.0 1.0 0.9864378409242579
+736
+Min, max, mean flux lya:  0.0 1.0 0.9873502776534028
+737
+Min, max, mean flux lya:  0.0 1.0 0.9870152349071178
+738
+Min, max, mean flux lya:  0.0 1.0 0.9869995841880719
+739
+Min, max, mean flux lya:  0.0 1.0 0.986949047554259
+740
+Min, max, mean flux lya:  0.0 1.0 0.9861660453126799
+741
+Min, max, mean flux lya:  0.0 1.0 0.9869651837670506
+742
+Min, max, mean flux lya:  0.0 1.0 0.9872254326134423
+743
+Min, max, mean flux lya:  0.0 1.0 0.9871326959707392
+1405
+Min, max, mean flux lya:  0.0 1.0 0.9863773292326161
+1063
+Min, max, mean flux lya:  0.0 1.0 0.9870257614446752
+1104
+Min, max, mean flux lya:  0.0 1.0 0.9869540101753973
+1105
+Min, max, mean flux lya:  0.0 1.0 0.9866638778904484
+1106
+Min, max, mean flux lya:  0.0 1.0 0.9872861685114326
+1107
+Min, max, mean flux lya:  0.0 1.0 0.9871950352865358
+1108
+Min, max, mean flux lya:  0.0 1.0 0.986402906239065
+1109
+Min, max, mean flux lya:  0.0 1.0 0.9880028167430818
+1110
+Min, max, mean flux lya:  0.0 1.0 0.9866567723372957
+1111
+Min, max, mean flux lya:  0.0 1.0 0.9869930631330724
+312
+Min, max, mean flux lya:  0.0 1.0 0.9862299893207286
+313
+Min, max, mean flux lya:  0.0 1.0 0.9867435025358499
+314
+Min, max, mean flux lya:  0.0 1.0 0.9869224644666895
+315
+Min, max, mean flux lya:  0.0 1.0 0.986359350274208
+316
+Min, max, mean flux lya:  0.0 1.0 0.9869222347381559
+317
+Min, max, mean flux lya:  0.0 1.0 0.9872554474824387
+318
+Min, max, mean flux lya:  0.0 1.0 0.9862673485269459
+319
+Min, max, mean flux lya:  0.0 1.0 0.9865237800577336
+1426
+Min, max, mean flux lya:  0.0 1.0 0.9872709289508008
+712
+Min, max, mean flux lya:  0.0 1.0 0.9876112565597159
+713
+Min, max, mean flux lya:  0.0 1.0 0.9874507287138377
+714
+Min, max, mean flux lya:  0.0 1.0 0.9868066480331169
+715
+Min, max, mean flux lya:  0.0 1.0 0.9876326560268986
+716
+Min, max, mean flux lya:  0.0 1.0 0.9874125348623211
+717
+Min, max, mean flux lya:  0.0 1.0 0.9870944785586252
+718
+Min, max, mean flux lya:  0.0 1.0 0.9870386318778034
+719
+Min, max, mean flux lya:  0.0 1.0 0.9866685865781223
+1583
+Min, max, mean flux lya:  0.0 1.0 0.986671694767422
+1018
+Min, max, mean flux lya:  0.0 1.0 0.9876104482277831
+1136
+Min, max, mean flux lya:  0.0 1.0 0.9868740414154008
+1137
+Min, max, mean flux lya:  0.0 1.0 0.9870955970242661
+1138
+Min, max, mean flux lya:  0.0 1.0 0.9871665712430513
+1139
+Min, max, mean flux lya:  0.0 1.0 0.986572243620846
+1140
+Min, max, mean flux lya:  0.0 1.0 0.9867354104669592
+1141
+Min, max, mean flux lya:  0.0 1.0 0.9868094822867958
+1142
+Min, max, mean flux lya:  0.0 1.0 0.9868416920048154
+1143
+Min, max, mean flux lya:  0.0 1.0 0.9868361592227497
+360
+Min, max, mean flux lya:  0.0 1.0 0.9876230027308415
+361
+Min, max, mean flux lya:  0.0 1.0 0.9866214187691843
+362
+Min, max, mean flux lya:  0.0 1.0 0.9870923449519802
+363
+Min, max, mean flux lya:  0.0 1.0 0.9869824109125007
+364
+Min, max, mean flux lya:  0.0 1.0 0.987446202718461
+365
+Min, max, mean flux lya:  0.0 1.0 0.9863195115162341
+366
+Min, max, mean flux lya:  0.0 1.0 0.986838760360227
+367
+Min, max, mean flux lya:  0.0 1.0 0.987159597100306
+1935
+Min, max, mean flux lya:  0.0 1.0 0.9867934092851173
+429
+Min, max, mean flux lya:  0.0 1.0 0.9872698210795914
+1128
+Min, max, mean flux lya:  0.0 1.0 0.9868659923093893
+1129
+Min, max, mean flux lya:  0.0 1.0 0.9877018794545854
+1130
+Min, max, mean flux lya:  0.0 1.0 0.9868844222068965
+1131
+Min, max, mean flux lya:  0.0 1.0 0.9863350446612882
+1132
+Min, max, mean flux lya:  0.0 1.0 0.986537523606073
+1133
+Min, max, mean flux lya:  0.0 1.0 0.9865179995057622
+1134
+Min, max, mean flux lya:  0.0 1.0 0.9865345618138555
+1135
+Min, max, mean flux lya:  0.0 1.0 0.9864336111631917
+951
+Min, max, mean flux lya:  0.0 1.0 0.9864829065767255
+1144
+Min, max, mean flux lya:  0.0 1.0 0.9874167060988278
+1145
+Min, max, mean flux lya:  0.0 1.0 0.9862898206864281
+1146
+Min, max, mean flux lya:  0.0 1.0 0.9865946047239408
+1147
+Min, max, mean flux lya:  0.0 1.0 0.9859688358578115
+1148
+Min, max, mean flux lya:  0.0 1.0 0.9872719632577004
+1149
+Min, max, mean flux lya:  0.0 1.0 0.9865089516954831
+1150
+Min, max, mean flux lya:  0.0 1.0 0.9867955449919714
+1151
+Min, max, mean flux lya:  0.0 1.0 0.9871841816617911
+50
+Min, max, mean flux lya:  0.0 1.0 0.9866632923418
+1112
+Min, max, mean flux lya:  0.0 1.0 0.9875167511166865
+1113
+Min, max, mean flux lya:  0.0 1.0 0.9869593672111415
+1114
+Min, max, mean flux lya:  0.0 1.0 0.9860369464328932
+1115
+Min, max, mean flux lya:  0.0 1.0 0.9870767897122996
+1116
+Min, max, mean flux lya:  0.0 1.0 0.987092487197383
+1117
+Min, max, mean flux lya:  0.0 1.0 0.987523161407639
+1118
+Min, max, mean flux lya:  0.0 1.0 0.9866713829605298
+1119
+Min, max, mean flux lya:  0.0 1.0 0.9869240174534158
+296
+Min, max, mean flux lya:  0.0 1.0 0.9862192904512742
+297
+Min, max, mean flux lya:  0.0 1.0 0.986953428296655
+298
+Min, max, mean flux lya:  0.0 1.0 0.9867859643658565
+299
+Min, max, mean flux lya:  0.0 1.0 0.9862099822252536
+300
+Min, max, mean flux lya:  0.0 1.0 0.9870890934402226
+301
+Min, max, mean flux lya:  0.0 1.0 0.9858251352235341
+302
+Min, max, mean flux lya:  0.0 1.0 0.986552880208835
+303
+Min, max, mean flux lya:  0.0 1.0 0.9858856147406613
+3031
+Min, max, mean flux lya:  0.0 1.0 0.9867803444467517
+320
+Min, max, mean flux lya:  0.0 1.0 0.9870034123228222
+321
+Min, max, mean flux lya:  0.0 1.0 0.9870643912539091
+322
+Min, max, mean flux lya:  0.0 1.0 0.9864233071240981
+323
+Min, max, mean flux lya:  0.0 1.0 0.9869833909488196
+324
+Min, max, mean flux lya:  0.0 1.0 0.9864149833240131
+325
+Min, max, mean flux lya:  0.0 1.0 0.9870368391203936
+326
+Min, max, mean flux lya:  0.0 1.0 0.9865509930286263
+327
+Min, max, mean flux lya:  0.0 1.0 0.9872682017700164
+1885
+Min, max, mean flux lya:  0.0 1.0 0.9869128967151684
+930
+Min, max, mean flux lya:  0.0 1.0 0.9866713515126788
+1120
+Min, max, mean flux lya:  0.0 1.0 0.9866819137444928
+1121
+Min, max, mean flux lya:  0.0 1.0 0.987365875894414
+1122
+Min, max, mean flux lya:  0.0 1.0 0.9871106837912702
+1123
+Min, max, mean flux lya:  0.0 1.0 0.9870379057830422
+1124
+Min, max, mean flux lya:  0.0 1.0 0.9866651476819743
+1125
+Min, max, mean flux lya:  0.0 1.0 0.9863487779514601
+1126
+Min, max, mean flux lya:  0.0 1.0 0.9865325518600594
+1127
+Min, max, mean flux lya:  0.0 1.0 0.9870770380022844
+848
+Min, max, mean flux lya:  0.0 1.0 0.9863296440517494
+849
+Min, max, mean flux lya:  0.0 1.0 0.986147772585725
+1152
+Min, max, mean flux lya:  0.0 1.0 0.9872520383021521
+1153
+Min, max, mean flux lya:  0.0 1.0 0.9870066781513637
+1154
+Min, max, mean flux lya:  0.0 1.0 0.9872470005337738
+1155
+Min, max, mean flux lya:  0.0 1.0 0.9868502584408502
+1156
+Min, max, mean flux lya:  0.0 1.0 0.9871469835837492
+1157
+Min, max, mean flux lya:  0.0 1.0 0.987193859531769
+1158
+Min, max, mean flux lya:  0.0 1.0 0.9875635475326507
+1159
+Min, max, mean flux lya:  0.0 1.0 0.9877243821593931
+144
+Min, max, mean flux lya:  0.0 1.0 0.9866373536274087
+146
+Min, max, mean flux lya:  0.0 1.0 0.9863939500354449
+1160
+Min, max, mean flux lya:  0.0 1.0 0.9871753955361284
+1161
+Min, max, mean flux lya:  0.0 1.0 0.986424040475351
+1162
+Min, max, mean flux lya:  0.0 1.0 0.9867900717818822
+1163
+Min, max, mean flux lya:  0.0 1.0 0.9867840955686799
+1164
+Min, max, mean flux lya:  0.0 1.0 0.9872879873398883
+1165
+Min, max, mean flux lya:  0.0 1.0 0.9866592217867347
+1166
+Min, max, mean flux lya:  0.0 1.0 0.9868725774211438
+1167
+Min, max, mean flux lya:  0.0 1.0 0.986207107261871
+616
+Min, max, mean flux lya:  0.0 1.0 0.9869483278588034
+617
+Min, max, mean flux lya:  0.0 1.0 0.9863412015504694
+618
+Min, max, mean flux lya:  0.0 1.0 0.9862825294119111
+619
+Min, max, mean flux lya:  0.0 1.0 0.9871831238231279
+620
+Min, max, mean flux lya:  0.0 1.0 0.986696958029776
+621
+Min, max, mean flux lya:  0.0 1.0 0.986349623162003
+622
+Min, max, mean flux lya:  0.0 1.0 0.9870646590093077
+623
+Min, max, mean flux lya:  0.0 1.0 0.9865515427670938
+2806
+Min, max, mean flux lya:  0.0 1.0 0.9865537741448184
+2807
+Min, max, mean flux lya:  0.0 1.0 0.9867438801561339
+56
+Min, max, mean flux lya:  0.0 1.0 0.9864513826429147
+58
+Min, max, mean flux lya:  0.0 1.0 0.9856961915745681
+1176
+Min, max, mean flux lya:  0.0 1.0 0.9869764160863452
+1177
+Min, max, mean flux lya:  0.0 1.0 0.9874086664716124
+1178
+Min, max, mean flux lya:  0.0 1.0 0.9865913375160351
+1179
+Min, max, mean flux lya:  0.0 1.0 0.9873218545307483
+1180
+Min, max, mean flux lya:  0.0 1.0 0.9864322855789434
+1181
+Min, max, mean flux lya:  0.0 1.0 0.9860892197922606
+1182
+Min, max, mean flux lya:  0.0 1.0 0.9870668130545452
+1183
+Min, max, mean flux lya:  0.0 1.0 0.9865516904155084
+160
+Min, max, mean flux lya:  0.0 1.0 0.986773590207323
+162
+Min, max, mean flux lya:  0.0 1.0 0.9857668620389058
+1168
+Min, max, mean flux lya:  0.0 1.0 0.9878952643799382
+1169
+Min, max, mean flux lya:  0.0 1.0 0.9865490521990512
+1170
+Min, max, mean flux lya:  0.0 1.0 0.987863838892276
+1171
+Min, max, mean flux lya:  0.0 1.0 0.9869498243931158
+1172
+Min, max, mean flux lya:  0.0 1.0 0.9865809566471934
+1173
+Min, max, mean flux lya:  0.0 1.0 0.9866535837913101
+1174
+Min, max, mean flux lya:  0.0 1.0 0.9867429449344834
+1175
+Min, max, mean flux lya:  0.0 1.0 0.9864746458238324
+1045
+Min, max, mean flux lya:  0.0 1.0 0.9865502260206649
+1046
+Min, max, mean flux lya:  0.0 1.0 0.9869470728041401
+1047
+Min, max, mean flux lya:  0.0 1.0 0.98659821313875
+1184
+Min, max, mean flux lya:  0.0 1.0 0.9871360664585785
+1185
+Min, max, mean flux lya:  0.0 1.0 0.9874555838077045
+1186
+Min, max, mean flux lya:  0.0 1.0 0.9865680854634742
+1187
+Min, max, mean flux lya:  0.0 1.0 0.9864511470584539
+1188
+Min, max, mean flux lya:  0.0 1.0 0.9876187333885412
+1189
+Min, max, mean flux lya:  0.0 1.0 0.9866222991746934
+1190
+Min, max, mean flux lya:  0.0 1.0 0.9873017574987301
+1191
+Min, max, mean flux lya:  0.0 1.0 0.9867077142006511
+536
+Min, max, mean flux lya:  0.0 1.0 0.9861731675739689
+537
+Min, max, mean flux lya:  0.0 1.0 0.9860867588918295
+538
+Min, max, mean flux lya:  0.0 1.0 0.986330206118584
+539
+Min, max, mean flux lya:  0.0 1.0 0.9864935249485486
+540
+Min, max, mean flux lya:  0.0 1.0 0.9862728636103423
+541
+Min, max, mean flux lya:  0.0 1.0 0.9872334509340671
+542
+Min, max, mean flux lya:  0.0 1.0 0.985144402017323
+543
+Min, max, mean flux lya:  0.0 1.0 0.9864642192913445
+1396
+Min, max, mean flux lya:  0.0 1.0 0.9863041982609708
+1397
+Min, max, mean flux lya:  0.0 1.0 0.9860829179838347
+1399
+Min, max, mean flux lya:  0.0 1.0 0.9865370909460064
+792
+Min, max, mean flux lya:  0.0 1.0 0.9872375046561949
+793
+Min, max, mean flux lya:  0.0 1.0 0.9864628073924674
+794
+Min, max, mean flux lya:  0.0 1.0 0.9865981526304926
+795
+Min, max, mean flux lya:  0.0 1.0 0.9856924214299144
+796
+Min, max, mean flux lya:  0.0 1.0 0.9869078663296682
+797
+Min, max, mean flux lya:  0.0 1.0 0.9869427658426495
+798
+Min, max, mean flux lya:  0.0 1.0 0.9871879520155579
+799
+Min, max, mean flux lya:  0.0 1.0 0.986344385827669
+1432
+Min, max, mean flux lya:  0.0 1.0 0.9864099246504854
+1434
+Min, max, mean flux lya:  0.0 1.0 0.9866039045044305
+1435
+Min, max, mean flux lya:  0.0 1.0 0.9856137508871142
+352
+Min, max, mean flux lya:  0.0 1.0 0.9868809167566555
+353
+Min, max, mean flux lya:  0.0 1.0 0.9865755753182491
+354
+Min, max, mean flux lya:  0.0 1.0 0.9876461785058231
+355
+Min, max, mean flux lya:  0.0 1.0 0.9872069778494132
+356
+Min, max, mean flux lya:  0.0 1.0 0.9870664161946013
+357
+Min, max, mean flux lya:  0.0 1.0 0.9866562415366179
+358
+Min, max, mean flux lya:  0.0 1.0 0.9867689934303016
+359
+Min, max, mean flux lya:  0.0 1.0 0.9862821143853105
+1589
+Min, max, mean flux lya:  0.0 1.0 0.9867446480236679
+1590
+Min, max, mean flux lya:  0.0 1.0 0.98590313610755
+1591
+Min, max, mean flux lya:  0.0 1.0 0.9869861321721305
+456
+Min, max, mean flux lya:  0.0 1.0 0.9871748024484214
+457
+Min, max, mean flux lya:  0.0 1.0 0.9869384057329993
+458
+Min, max, mean flux lya:  0.0 1.0 0.9861992086822249
+459
+Min, max, mean flux lya:  0.0 1.0 0.9875713777464725
+460
+Min, max, mean flux lya:  0.0 1.0 0.9873969704951022
+461
+Min, max, mean flux lya:  0.0 1.0 0.9868243479417294
+462
+Min, max, mean flux lya:  0.0 1.0 0.9861456432403921
+463
+Min, max, mean flux lya:  0.0 1.0 0.9867883930120132
+2261
+Min, max, mean flux lya:  0.0 1.0 0.9869194143663257
+2262
+Min, max, mean flux lya:  0.0 1.0 0.9865799673138803
+2263
+Min, max, mean flux lya:  0.0 1.0 0.9864703577202991
+1088
+Min, max, mean flux lya:  0.0 1.0 0.9872006492165992
+1089
+Min, max, mean flux lya:  0.0 1.0 0.9870816144763644
+1090
+Min, max, mean flux lya:  0.0 1.0 0.9863985905692043
+1091
+Min, max, mean flux lya:  0.0 1.0 0.9871324168668625
+1092
+Min, max, mean flux lya:  0.0 1.0 0.9863744216174936
+1093
+Min, max, mean flux lya:  0.0 1.0 0.9857725255452228
+1094
+Min, max, mean flux lya:  0.0 1.0 0.9866940742124328
+1095
+Min, max, mean flux lya:  0.0 1.0 0.9873332055622268
+2277
+Min, max, mean flux lya:  0.0 1.0 0.9872874365827802
+2278
+Min, max, mean flux lya:  0.0 1.0 0.9873945129232728
+2279
+Min, max, mean flux lya:  0.0 1.0 0.9872268544393661
+994
+Min, max, mean flux lya:  0.0 1.0 0.9870445534284812
+995
+Min, max, mean flux lya:  0.0 1.0 0.9873924699927019
+998
+Min, max, mean flux lya:  0.0 1.0 0.9869491723770734
+1192
+Min, max, mean flux lya:  0.0 1.0 0.9870125417527066
+1193
+Min, max, mean flux lya:  0.0 1.0 0.9873627397664904
+1194
+Min, max, mean flux lya:  0.0 1.0 0.9867151575127344
+1195
+Min, max, mean flux lya:  0.0 1.0 0.986458358684946
+1196
+Min, max, mean flux lya:  0.0 1.0 0.9867429184112521
+1197
+Min, max, mean flux lya:  0.0 1.0 0.9870781776900542
+1198
+Min, max, mean flux lya:  0.0 1.0 0.9867301250892718
+1199
+Min, max, mean flux lya:  0.0 1.0 0.9863605560846113
+520
+Min, max, mean flux lya:  0.0 1.0 0.9859340480368013
+521
+Min, max, mean flux lya:  0.0 1.0 0.9862970536530963
+522
+Min, max, mean flux lya:  0.0 1.0 0.9859975517005957
+523
+Min, max, mean flux lya:  0.0 1.0 0.9865240161602368
+524
+Min, max, mean flux lya:  0.0 1.0 0.9864107646529708
+525
+Min, max, mean flux lya:  0.0 1.0 0.9863939153981135
+526
+Min, max, mean flux lya:  0.0 1.0 0.9863773210071219
+527
+Min, max, mean flux lya:  0.0 1.0 0.9862916263072278
+2549
+Min, max, mean flux lya:  0.0 1.0 0.9872850070090347
+2550
+Min, max, mean flux lya:  0.0 1.0 0.9860862057726253
+2551
+Min, max, mean flux lya:  0.0 1.0 0.9862892014566333
+440
+Min, max, mean flux lya:  0.0 1.0 0.9871537718301345
+441
+Min, max, mean flux lya:  0.0 1.0 0.9868611336305009
+443
+Min, max, mean flux lya:  0.0 1.0 0.9870013190810205
+444
+Min, max, mean flux lya:  0.0 1.0 0.9875049963720766
+445
+Min, max, mean flux lya:  0.0 1.0 0.9869924785842797
+446
+Min, max, mean flux lya:  0.0 1.0 0.9869669760617668
+447
+Min, max, mean flux lya:  0.0 1.0 0.9876770665756224
+1372
+Min, max, mean flux lya:  0.0 1.0 0.986256830943924
+1373
+Min, max, mean flux lya:  0.0 1.0 0.9868336039779279
+1374
+Min, max, mean flux lya:  0.0 1.0 0.9862683770951183
+1375
+Min, max, mean flux lya:  0.0 1.0 0.9867556342384513
+1068
+Min, max, mean flux lya:  0.0 1.0 0.9864955434955188
+1069
+Min, max, mean flux lya:  0.0 1.0 0.9871047775714283
+1070
+Min, max, mean flux lya:  0.0 1.0 0.9869700883549607
+1071
+Min, max, mean flux lya:  0.0 1.0 0.9865531181377463
+1216
+Min, max, mean flux lya:  0.0 1.0 0.9871513767428985
+1217
+Min, max, mean flux lya:  0.0 1.0 0.9870342917703091
+1218
+Min, max, mean flux lya:  0.0 1.0 0.9870999800244132
+1219
+Min, max, mean flux lya:  0.0 1.0 0.9866768059141539
+1220
+Min, max, mean flux lya:  0.0 1.0 0.987023636923443
+1221
+Min, max, mean flux lya:  0.0 1.0 0.9863658669399108
+1222
+Min, max, mean flux lya:  0.0 1.0 0.9868282223483045
+1223
+Min, max, mean flux lya:  0.0 1.0 0.986542398383591
+640
+Min, max, mean flux lya:  0.0 1.0 0.9867847319879711
+641
+Min, max, mean flux lya:  0.0 1.0 0.986107278098892
+642
+Min, max, mean flux lya:  0.0 1.0 0.9871785654083507
+643
+Min, max, mean flux lya:  0.0 1.0 0.9868453306055661
+644
+Min, max, mean flux lya:  0.0 1.0 0.9860917747455904
+645
+Min, max, mean flux lya:  0.0 1.0 0.9869774042613563
+646
+Min, max, mean flux lya:  0.0 1.0 0.9870003108066998
+647
+Min, max, mean flux lya:  0.0 1.0 0.9868807009655403
+1994
+Min, max, mean flux lya:  0.0 1.0 0.9863953520598887
+1995
+Min, max, mean flux lya:  0.0 1.0 0.9866850732098043
+1998
+Min, max, mean flux lya:  0.0 1.0 0.985637833976955
+1999
+Min, max, mean flux lya:  0.0 1.0 0.9861027395610809
+393
+Min, max, mean flux lya:  0.0 1.0 0.9861269009183313
+395
+Min, max, mean flux lya:  0.0 1.0 0.9870141966465339
+396
+Min, max, mean flux lya:  0.0 1.0 0.9869611912642813
+397
+Min, max, mean flux lya:  0.0 1.0 0.9872810595167361
+398
+Min, max, mean flux lya:  0.0 1.0 0.9862987877267019
+399
+Min, max, mean flux lya:  0.0 1.0 0.9868189318077163
+1272
+Min, max, mean flux lya:  0.0 1.0 0.9861041448584995
+1273
+Min, max, mean flux lya:  0.0 1.0 0.986310565271506
+1274
+Min, max, mean flux lya:  0.0 1.0 0.9859788283041683
+1275
+Min, max, mean flux lya:  0.0 1.0 0.9869060631448398
+1276
+Min, max, mean flux lya:  0.0 1.0 0.9866789960203054
+1278
+Min, max, mean flux lya:  0.0 1.0 0.9871976166641182
+0
+Min, max, mean flux lya:  0.0 1.0 0.9869434335830694
+1
+Min, max, mean flux lya:  0.0 1.0 0.9867504723239987
+2
+Min, max, mean flux lya:  0.0 1.0 0.9863524877914482
+3
+Min, max, mean flux lya:  0.0 1.0 0.9865317097045575
+1208
+Min, max, mean flux lya:  0.0 1.0 0.9865209049761572
+1209
+Min, max, mean flux lya:  0.0 1.0 0.9873611435235107
+1210
+Min, max, mean flux lya:  0.0 1.0 0.9875858291444916
+1211
+Min, max, mean flux lya:  0.0 1.0 0.986791875561029
+1212
+Min, max, mean flux lya:  0.0 1.0 0.9873007658244597
+1213
+Min, max, mean flux lya:  0.0 1.0 0.986850930881031
+1214
+Min, max, mean flux lya:  0.0 1.0 0.986065247786569
+1215
+Min, max, mean flux lya:  0.0 1.0 0.9866475927608689
+420
+Min, max, mean flux lya:  0.0 1.0 0.9872574174431373
+421
+Min, max, mean flux lya:  0.0 1.0 0.9868952748652842
+422
+Min, max, mean flux lya:  0.0 1.0 0.9871053795243248
+423
+Min, max, mean flux lya:  0.0 1.0 0.9871720036854666
+1200
+Min, max, mean flux lya:  0.0 1.0 0.9865880674716458
+1201
+Min, max, mean flux lya:  0.0 1.0 0.9864461225498844
+1202
+Min, max, mean flux lya:  0.0 1.0 0.9859752503117201
+1203
+Min, max, mean flux lya:  0.0 1.0 0.9862047877128298
+1204
+Min, max, mean flux lya:  0.0 1.0 0.9867817608969116
+1205
+Min, max, mean flux lya:  0.0 1.0 0.98720445187134
+1206
+Min, max, mean flux lya:  0.0 1.0 0.9872381479238443
+1207
+Min, max, mean flux lya:  0.0 1.0 0.9868083425381547
+464
+Min, max, mean flux lya:  0.0 1.0 0.9867867968063625
+465
+Min, max, mean flux lya:  0.0 1.0 0.9866627479939896
+466
+Min, max, mean flux lya:  0.0 1.0 0.9874892444745658
+467
+Min, max, mean flux lya:  0.0 1.0 0.9862985411588755
+468
+Min, max, mean flux lya:  0.0 1.0 0.9867168818857482
+469
+Min, max, mean flux lya:  0.0 1.0 0.9868792534235429
+470
+Min, max, mean flux lya:  0.0 1.0 0.9863605704406914
+471
+Min, max, mean flux lya:  0.0 1.0 0.9866263501313995
+3036
+Min, max, mean flux lya:  0.0 1.0 0.9867423882508211
+3037
+Min, max, mean flux lya:  0.0 1.0 0.9869872883889846
+3038
+Min, max, mean flux lya:  0.0 1.0 0.9868808781836328
+3039
+Min, max, mean flux lya:  0.0 1.0 0.9865988065918779
+840
+Min, max, mean flux lya:  0.0 1.0 0.9873740627200772
+841
+Min, max, mean flux lya:  0.0 1.0 0.9861842303769274
+842
+Min, max, mean flux lya:  0.0 1.0 0.987075957602932
+843
+Min, max, mean flux lya:  0.0 1.0 0.9867690541651937
+844
+Min, max, mean flux lya:  0.0 1.0 0.9876830673982172
+1232
+Min, max, mean flux lya:  0.0 1.0 0.9859573749420212
+1233
+Min, max, mean flux lya:  0.0 1.0 0.9866831389865427
+1234
+Min, max, mean flux lya:  0.0 1.0 0.985845370473186
+1235
+Min, max, mean flux lya:  0.0 1.0 0.9862635423006725
+1236
+Min, max, mean flux lya:  0.0 1.0 0.9863307611980332
+1237
+Min, max, mean flux lya:  0.0 1.0 0.9860408469278815
+1238
+Min, max, mean flux lya:  0.0 1.0 0.9874033541061175
+1239
+Min, max, mean flux lya:  0.0 1.0 0.9863103849922298
+624
+Min, max, mean flux lya:  0.0 1.0 0.9861406687053629
+625
+Min, max, mean flux lya:  0.0 1.0 0.9871649624210278
+626
+Min, max, mean flux lya:  0.0 1.0 0.9865175265582594
+627
+Min, max, mean flux lya:  0.0 1.0 0.9866962115933917
+628
+Min, max, mean flux lya:  0.0 1.0 0.9871631003001876
+629
+Min, max, mean flux lya:  0.0 1.0 0.9871038231302237
+630
+Min, max, mean flux lya:  0.0 1.0 0.9866900149970967
+631
+Min, max, mean flux lya:  0.0 1.0 0.9876434776973287
+1667
+Min, max, mean flux lya:  0.0 1.0 0.9861996884902968
+1668
+Min, max, mean flux lya:  0.0 1.0 0.9863848073315518
+1669
+Min, max, mean flux lya:  0.0 1.0 0.9864140397055112
+1670
+Min, max, mean flux lya:  0.0 1.0 0.9870553405571053
+1671
+Min, max, mean flux lya:  0.0 1.0 0.9868294251848939
+568
+Min, max, mean flux lya:  0.0 1.0 0.9873212167246171
+569
+Min, max, mean flux lya:  0.0 1.0 0.986397118886472
+570
+Min, max, mean flux lya:  0.0 1.0 0.9858426748655993
+571
+Min, max, mean flux lya:  0.0 1.0 0.9870545593355293
+572
+Min, max, mean flux lya:  0.0 1.0 0.986482988696692
+573
+Min, max, mean flux lya:  0.0 1.0 0.9874308970077077
+574
+Min, max, mean flux lya:  0.0 1.0 0.9871248867777221
+575
+Min, max, mean flux lya:  0.0 1.0 0.9873889147178544
+1873
+Min, max, mean flux lya:  0.0 1.0 0.9867532309153082
+1876
+Min, max, mean flux lya:  0.0 1.0 0.9871540199824269
+1877
+Min, max, mean flux lya:  0.0 1.0 0.9871769875085956
+1878
+Min, max, mean flux lya:  0.0 1.0 0.985921710768837
+1879
+Min, max, mean flux lya:  0.0 1.0 0.9865144293324093
+760
+Min, max, mean flux lya:  0.0 1.0 0.986854044241961
+761
+Min, max, mean flux lya:  0.0 1.0 0.9870102831204839
+762
+Min, max, mean flux lya:  0.0 1.0 0.986002787639298
+763
+Min, max, mean flux lya:  0.0 1.0 0.9870261817507764
+764
+Min, max, mean flux lya:  0.0 1.0 0.9869675125001792
+1256
+Min, max, mean flux lya:  0.0 1.0 0.9865542291374111
+1257
+Min, max, mean flux lya:  0.0 1.0 0.9860434662120007
+1258
+Min, max, mean flux lya:  0.0 1.0 0.9866465105073594
+1259
+Min, max, mean flux lya:  0.0 1.0 0.9869146602266384
+1260
+Min, max, mean flux lya:  0.0 1.0 0.9861221269850385
+1261
+Min, max, mean flux lya:  0.0 1.0 0.9865474453337624
+1262
+Min, max, mean flux lya:  0.0 1.0 0.9860462862969829
+1263
+Min, max, mean flux lya:  0.0 1.0 0.986845633011212
+480
+Min, max, mean flux lya:  0.0 1.0 0.9870975409374272
+481
+Min, max, mean flux lya:  0.0 1.0 0.9877808513255106
+482
+Min, max, mean flux lya:  0.0 1.0 0.9876470912479547
+483
+Min, max, mean flux lya:  0.0 1.0 0.9873502341333831
+484
+Min, max, mean flux lya:  0.0 1.0 0.9874047672854274
+485
+Min, max, mean flux lya:  0.0 1.0 0.9869747155305532
+486
+Min, max, mean flux lya:  0.0 1.0 0.9873871285571041
+487
+Min, max, mean flux lya:  0.0 1.0 0.9871308938179495
+1448
+Min, max, mean flux lya:  0.0 1.0 0.9866071828616302
+1449
+Min, max, mean flux lya:  0.0 1.0 0.9859100408118926
+1450
+Min, max, mean flux lya:  0.0 1.0 0.9866624626700169
+1451
+Min, max, mean flux lya:  0.0 1.0 0.9864634775790214
+1452
+Min, max, mean flux lya:  0.0 1.0 0.9862555497285116
+504
+Min, max, mean flux lya:  0.0 1.0 0.9871732934658285
+505
+Min, max, mean flux lya:  0.0 1.0 0.9868882131898453
+506
+Min, max, mean flux lya:  0.0 1.0 0.9877580399568772
+507
+Min, max, mean flux lya:  0.0 1.0 0.9865585207408262
+508
+Min, max, mean flux lya:  0.0 1.0 0.987417870595344
+1224
+Min, max, mean flux lya:  0.0 1.0 0.9865314419194927
+1225
+Min, max, mean flux lya:  0.0 1.0 0.9869661737567191
+1226
+Min, max, mean flux lya:  0.0 1.0 0.9872011664149891
+1227
+Min, max, mean flux lya:  0.0 1.0 0.986570440682851
+1228
+Min, max, mean flux lya:  0.0 1.0 0.9869465363198838
+1229
+Min, max, mean flux lya:  0.0 1.0 0.9867982443315962
+1230
+Min, max, mean flux lya:  0.0 1.0 0.9862549154150024
+1231
+Min, max, mean flux lya:  0.0 1.0 0.985728634201458
+1080
+Min, max, mean flux lya:  0.0 1.0 0.9871645716353785
+1081
+Min, max, mean flux lya:  0.0 1.0 0.9871093518663724
+1082
+Min, max, mean flux lya:  0.0 1.0 0.9871766672908708
+1083
+Min, max, mean flux lya:  0.0 1.0 0.9868635352516505
+1084
+Min, max, mean flux lya:  0.0 1.0 0.9871672263838162
+1085
+Min, max, mean flux lya:  0.0 1.0 0.9865822750341301
+1086
+Min, max, mean flux lya:  0.0 1.0 0.9863885600605076
+1087
+Min, max, mean flux lya:  0.0 1.0 0.9868739893266717
+1603
+Min, max, mean flux lya:  0.0 1.0 0.9865543743903677
+1604
+Min, max, mean flux lya:  0.0 1.0 0.9863446251957794
+1605
+Min, max, mean flux lya:  0.0 1.0 0.9865130496705837
+1606
+Min, max, mean flux lya:  0.0 1.0 0.9866169015675972
+1607
+Min, max, mean flux lya:  0.0 1.0 0.9862061045528253
+136
+Min, max, mean flux lya:  0.0 1.0 0.9867170185115487
+137
+Min, max, mean flux lya:  0.0 1.0 0.9871960966053008
+138
+Min, max, mean flux lya:  0.0 1.0 0.9871515011881948
+139
+Min, max, mean flux lya:  0.0 1.0 0.9861533659691419
+140
+Min, max, mean flux lya:  0.0 1.0 0.9862792378757199
+1240
+Min, max, mean flux lya:  0.0 1.0 0.9873041642353704
+1241
+Min, max, mean flux lya:  0.0 1.0 0.9864069213434337
+1242
+Min, max, mean flux lya:  0.0 1.0 0.9859899128028144
+1243
+Min, max, mean flux lya:  0.0 1.0 0.986263266756949
+1244
+Min, max, mean flux lya:  0.0 1.0 0.9862593626798084
+1245
+Min, max, mean flux lya:  0.0 1.0 0.9861617476690093
+1246
+Min, max, mean flux lya:  0.0 1.0 0.9865761851634229
+1247
+Min, max, mean flux lya:  0.0 1.0 0.9858768317317621
+776
+Min, max, mean flux lya:  0.0 1.0 0.9864165418638983
+777
+Min, max, mean flux lya:  0.0 1.0 0.9867765153505708
+780
+Min, max, mean flux lya:  0.0 1.0 0.9863845551053876
+781
+Min, max, mean flux lya:  0.0 1.0 0.9864732837253174
+783
+Min, max, mean flux lya:  0.0 1.0 0.9862874007312281
+1248
+Min, max, mean flux lya:  0.0 1.0 0.9866397735125417
+1249
+Min, max, mean flux lya:  0.0 1.0 0.9864942387316985
+1250
+Min, max, mean flux lya:  0.0 1.0 0.9862994758198749
+1251
+Min, max, mean flux lya:  0.0 1.0 0.9865349631835633
+1252
+Min, max, mean flux lya:  0.0 1.0 0.9865839081388991
+1253
+Min, max, mean flux lya:  0.0 1.0 0.9870279736052957
+1254
+Min, max, mean flux lya:  0.0 1.0 0.9876700770673007
+1255
+Min, max, mean flux lya:  0.0 1.0 0.9859416403522472
+8
+Min, max, mean flux lya:  0.0 1.0 0.9869324199123699
+9
+Min, max, mean flux lya:  0.0 1.0 0.9873224459635233
+10
+Min, max, mean flux lya:  0.0 1.0 0.9862075794618129
+11
+Min, max, mean flux lya:  0.0 1.0 0.9863131292422874
+12
+Min, max, mean flux lya:  0.0 1.0 0.9862421664299046
+14
+Min, max, mean flux lya:  0.0 1.0 0.9870855397821682
+15
+Min, max, mean flux lya:  0.0 1.0 0.986895914766931
+1361
+Min, max, mean flux lya:  0.0 1.0 0.9858217795726637
+1363
+Min, max, mean flux lya:  0.0 1.0 0.986789976345843
+1364
+Min, max, mean flux lya:  0.0 1.0 0.9865124762314373
+1365
+Min, max, mean flux lya:  0.0 1.0 0.9861304798137566
+1366
+Min, max, mean flux lya:  0.0 1.0 0.9869118812570158
+1367
+Min, max, mean flux lya:  0.0 1.0 0.9863703621028465
+1049
+Min, max, mean flux lya:  0.0 1.0 0.9864050099484034
+1051
+Min, max, mean flux lya:  0.0 1.0 0.9866923402166855
+1052
+Min, max, mean flux lya:  0.0 1.0 0.987519939276054
+1053
+Min, max, mean flux lya:  0.0 1.0 0.9869098358195647
+1054
+Min, max, mean flux lya:  0.0 1.0 0.9866500579998168
+1055
+Min, max, mean flux lya:  0.0 1.0 0.9874419738247638
+1264
+Min, max, mean flux lya:  0.0 1.0 0.9861495882358627
+1265
+Min, max, mean flux lya:  0.0 1.0 0.9869308837554346
+1266
+Min, max, mean flux lya:  0.0 1.0 0.9865441417842772
+1267
+Min, max, mean flux lya:  0.0 1.0 0.9863642752849475
+1268
+Min, max, mean flux lya:  0.0 1.0 0.9865459384173467
+1269
+Min, max, mean flux lya:  0.0 1.0 0.9870129875707468
+1270
+Min, max, mean flux lya:  0.0 1.0 0.986057341570217
+1271
+Min, max, mean flux lya:  0.0 1.0 0.9864094915069304
+704
+Min, max, mean flux lya:  0.0 1.0 0.987309058603051
+705
+Min, max, mean flux lya:  0.0 1.0 0.9872263343962957
+706
+Min, max, mean flux lya:  0.0 1.0 0.9875242934981107
+707
+Min, max, mean flux lya:  0.0 1.0 0.9872426169485473
+708
+Min, max, mean flux lya:  0.0 1.0 0.9871479485454695
+709
+Min, max, mean flux lya:  0.0 1.0 0.9869029880070795
+710
+Min, max, mean flux lya:  0.0 1.0 0.9867923482474985
+711
+Min, max, mean flux lya:  0.0 1.0 0.9874933529053339
+1944
+Min, max, mean flux lya:  0.0 1.0 0.9875279889537569
+1945
+Min, max, mean flux lya:  0.0 1.0 0.9864108133668399
+1946
+Min, max, mean flux lya:  0.0 1.0 0.9867445629422471
+1947
+Min, max, mean flux lya:  0.0 1.0 0.9859671485551097
+1950
+Min, max, mean flux lya:  0.0 1.0 0.9861782698404576
+1951
+Min, max, mean flux lya:  0.0 1.0 0.9868239653801816
+720
+Min, max, mean flux lya:  0.0 1.0 0.9870617048178754
+721
+Min, max, mean flux lya:  0.0 1.0 0.9868917206598106
+722
+Min, max, mean flux lya:  0.0 1.0 0.9866146216113983
+723
+Min, max, mean flux lya:  0.0 1.0 0.9880971005547218
+724
+Min, max, mean flux lya:  0.0 1.0 0.9871859738946702
+725
+Min, max, mean flux lya:  0.0 1.0 0.9867425928789729
+726
+Min, max, mean flux lya:  0.0 1.0 0.9869272290420974
+727
+Min, max, mean flux lya:  0.0 1.0 0.9867361444764989
+2032
+Min, max, mean flux lya:  0.0 1.0 0.9867578139527936
+2033
+Min, max, mean flux lya:  0.0 1.0 0.9857358357142422
+2034
+Min, max, mean flux lya:  0.0 1.0 0.9869044506690473
+2035
+Min, max, mean flux lya:  0.0 1.0 0.9862301224890668
+2038
+Min, max, mean flux lya:  0.0 1.0 0.9863733526553753
+2039
+Min, max, mean flux lya:  0.0 1.0 0.9864063042276052
+1072
+Min, max, mean flux lya:  0.0 1.0 0.986219049185935
+1073
+Min, max, mean flux lya:  0.0 1.0 0.9866320938726194
+1074
+Min, max, mean flux lya:  0.0 1.0 0.9861860765740292
+1075
+Min, max, mean flux lya:  0.0 1.0 0.9867087157403732
+1076
+Min, max, mean flux lya:  0.0 1.0 0.9867246678953019
+1077
+Min, max, mean flux lya:  0.0 1.0 0.987412142106219
+1078
+Min, max, mean flux lya:  0.0 1.0 0.9870551758708027
+1079
+Min, max, mean flux lya:  0.0 1.0 0.986627441228852
+2553
+Min, max, mean flux lya:  0.0 1.0 0.9861752667971355
+2555
+Min, max, mean flux lya:  0.0 1.0 0.9869096959843341
+2556
+Min, max, mean flux lya:  0.0 1.0 0.9865288563353517
+2557
+Min, max, mean flux lya:  0.0 1.0 0.9867363105594816
+2558
+Min, max, mean flux lya:  0.0 1.0 0.9867190705986303
+2559
+Min, max, mean flux lya:  0.0 1.0 0.9857655888132257
+408
+Min, max, mean flux lya:  0.0 1.0 0.9860873747224626
+409
+Min, max, mean flux lya:  0.0 1.0 0.9868392063916112
+410
+Min, max, mean flux lya:  0.0 1.0 0.9869972492127471
+411
+Min, max, mean flux lya:  0.0 1.0 0.9865800654307051
+412
+Min, max, mean flux lya:  0.0 1.0 0.987282135064643
+413
+Min, max, mean flux lya:  0.0 1.0 0.9876792119847684
+414
+Min, max, mean flux lya:  0.0 1.0 0.98651558037968
+415
+Min, max, mean flux lya:  0.0 1.0 0.9876303757302548
+1954
+Min, max, mean flux lya:  0.0 1.0 0.9864091094226624
+1955
+Min, max, mean flux lya:  0.0 1.0 0.986980962176086
+1956
+Min, max, mean flux lya:  0.0 1.0 0.9868546582915675
+1957
+Min, max, mean flux lya:  0.0 1.0 0.9861723603765774
+1958
+Min, max, mean flux lya:  0.0 1.0 0.9866407501072878
+1959
+Min, max, mean flux lya:  0.0 1.0 0.9866953596422775
+328
+Min, max, mean flux lya:  0.0 1.0 0.9868462042247401
+329
+Min, max, mean flux lya:  0.0 1.0 0.9868835977394631
+330
+Min, max, mean flux lya:  0.0 1.0 0.9866435418862579
+331
+Min, max, mean flux lya:  0.0 1.0 0.9861599038775314
+332
+Min, max, mean flux lya:  0.0 1.0 0.9880394910718009
+333
+Min, max, mean flux lya:  0.0 1.0 0.9872774595308608
+334
+Min, max, mean flux lya:  0.0 1.0 0.9871599936381305
+335
+Min, max, mean flux lya:  0.0 1.0 0.9870093468665545
+1673
+Min, max, mean flux lya:  0.0 1.0 0.9873551313901059
+1674
+Min, max, mean flux lya:  0.0 1.0 0.9872324457819429
+1675
+Min, max, mean flux lya:  0.0 1.0 0.9875506917680863
+1676
+Min, max, mean flux lya:  0.0 1.0 0.9865898614582655
+1677
+Min, max, mean flux lya:  0.0 1.0 0.9864587940569065
+1678
+Min, max, mean flux lya:  0.0 1.0 0.9871626249449601
+1679
+Min, max, mean flux lya:  0.0 1.0 0.9862008479033694
+288
+Min, max, mean flux lya:  0.0 1.0 0.9861695437532897
+289
+Min, max, mean flux lya:  0.0 1.0 0.986274878980257
+290
+Min, max, mean flux lya:  0.0 1.0 0.9863653791765665
+291
+Min, max, mean flux lya:  0.0 1.0 0.9856153914763451
+292
+Min, max, mean flux lya:  0.0 1.0 0.9861596056193959
+293
+Min, max, mean flux lya:  0.0 1.0 0.9868633954208194
+294
+Min, max, mean flux lya:  0.0 1.0 0.9860820638373526
+295
+Min, max, mean flux lya:  0.0 1.0 0.9864726503988701
+1609
+Min, max, mean flux lya:  0.0 1.0 0.987126423583028
+1610
+Min, max, mean flux lya:  0.0 1.0 0.98608133287089
+1611
+Min, max, mean flux lya:  0.0 1.0 0.9871265531837885
+1612
+Min, max, mean flux lya:  0.0 1.0 0.9866533567148641
+1613
+Min, max, mean flux lya:  0.0 1.0 0.986876113405901
+1614
+Min, max, mean flux lya:  0.0 1.0 0.9861329340360854
+1615
+Min, max, mean flux lya:  0.0 1.0 0.9859915962732589
+336
+Min, max, mean flux lya:  0.0 1.0 0.9872453197462027
+337
+Min, max, mean flux lya:  0.0 1.0 0.9874659638315731
+338
+Min, max, mean flux lya:  0.0 1.0 0.9865838237474479
+339
+Min, max, mean flux lya:  0.0 1.0 0.9870924733575934
+340
+Min, max, mean flux lya:  0.0 1.0 0.9866836489929212
+341
+Min, max, mean flux lya:  0.0 1.0 0.9867797856670771
+342
+Min, max, mean flux lya:  0.0 1.0 0.9871844066148204
+343
+Min, max, mean flux lya:  0.0 1.0 0.9870896954021312
+1440
+Min, max, mean flux lya:  0.0 1.0 0.9866020343363725
+1441
+Min, max, mean flux lya:  0.0 1.0 0.9875080843736015
+1442
+Min, max, mean flux lya:  0.0 1.0 0.9867475794812247
+1443
+Min, max, mean flux lya:  0.0 1.0 0.9858670074833653
+1444
+Min, max, mean flux lya:  0.0 1.0 0.9873751726852591
+1445
+Min, max, mean flux lya:  0.0 1.0 0.9854691063717088
+1446
+Min, max, mean flux lya:  0.0 1.0 0.9867020262983613
+344
+Min, max, mean flux lya:  0.0 1.0 0.9878738422480963
+345
+Min, max, mean flux lya:  0.0 1.0 0.986805957271675
+346
+Min, max, mean flux lya:  0.0 1.0 0.9875174986853597
+347
+Min, max, mean flux lya:  0.0 1.0 0.9870968610248975
+348
+Min, max, mean flux lya:  0.0 1.0 0.9870252261218933
+349
+Min, max, mean flux lya:  0.0 1.0 0.986733300083332
+350
+Min, max, mean flux lya:  0.0 1.0 0.9871652768374708
+351
+Min, max, mean flux lya:  0.0 1.0 0.9871411303828166
+1593
+Min, max, mean flux lya:  0.0 1.0 0.9864982956350515
+1594
+Min, max, mean flux lya:  0.0 1.0 0.9858499587673306
+1595
+Min, max, mean flux lya:  0.0 1.0 0.9864374743108187
+1596
+Min, max, mean flux lya:  0.0 1.0 0.9864772310452973
+1597
+Min, max, mean flux lya:  0.0 1.0 0.9868959135674571
+1598
+Min, max, mean flux lya:  0.0 1.0 0.9863608366344735
+1599
+Min, max, mean flux lya:  0.0 1.0 0.9861356854047861
+400
+Min, max, mean flux lya:  0.0 1.0 0.9866525741429767
+401
+Min, max, mean flux lya:  0.0 1.0 0.9869259991435098
+402
+Min, max, mean flux lya:  0.0 1.0 0.9871677467575963
+403
+Min, max, mean flux lya:  0.0 1.0 0.9868853391959191
+404
+Min, max, mean flux lya:  0.0 1.0 0.9865384329764261
+405
+Min, max, mean flux lya:  0.0 1.0 0.9866901041383872
+406
+Min, max, mean flux lya:  0.0 1.0 0.9860250494661579
+407
+Min, max, mean flux lya:  0.0 1.0 0.9865732552832784
+2281
+Min, max, mean flux lya:  0.0 1.0 0.9871403170993801
+2282
+Min, max, mean flux lya:  0.0 1.0 0.9870877853229082
+2283
+Min, max, mean flux lya:  0.0 1.0 0.9870544609694211
+2284
+Min, max, mean flux lya:  0.0 1.0 0.9864751695641528
+2285
+Min, max, mean flux lya:  0.0 1.0 0.9869986899678803
+2286
+Min, max, mean flux lya:  0.0 1.0 0.9873072752467376
+2287
+Min, max, mean flux lya:  0.0 1.0 0.9871683129927135
+952
+Min, max, mean flux lya:  0.0 1.0 0.9864611989426889
+953
+Min, max, mean flux lya:  0.0 1.0 0.9872701083195463
+954
+Min, max, mean flux lya:  0.0 1.0 0.9869156085734031
+955
+Min, max, mean flux lya:  0.0 1.0 0.9863726112675296
+956
+Min, max, mean flux lya:  0.0 1.0 0.9867794130829349
+957
+Min, max, mean flux lya:  0.0 1.0 0.9863072589170188
+958
+Min, max, mean flux lya:  0.0 1.0 0.9866418459717594
+959
+Min, max, mean flux lya:  0.0 1.0 0.9863609458033675
+2265
+Min, max, mean flux lya:  0.0 1.0 0.9868239885014533
+2266
+Min, max, mean flux lya:  0.0 1.0 0.9869331062720785
+2267
+Min, max, mean flux lya:  0.0 1.0 0.9863722638523695
+2268
+Min, max, mean flux lya:  0.0 1.0 0.9863903497557128
+2269
+Min, max, mean flux lya:  0.0 1.0 0.9868809160675351
+2270
+Min, max, mean flux lya:  0.0 1.0 0.9861364372384455
+2271
+Min, max, mean flux lya:  0.0 1.0 0.9855172827021074
+528
+Min, max, mean flux lya:  0.0 1.0 0.986545911595517
+529
+Min, max, mean flux lya:  0.0 1.0 0.9866545618654031
+530
+Min, max, mean flux lya:  0.0 1.0 0.9856039485343697
+531
+Min, max, mean flux lya:  0.0 1.0 0.9864030917646593
+532
+Min, max, mean flux lya:  0.0 1.0 0.9861574445530409
+533
+Min, max, mean flux lya:  0.0 1.0 0.9856695388519323
+534
+Min, max, mean flux lya:  0.0 1.0 0.9864900431937975
+535
+Min, max, mean flux lya:  0.0 1.0 0.9860227162183606
+3057
+Min, max, mean flux lya:  0.0 1.0 0.9870514523645215
+3058
+Min, max, mean flux lya:  0.0 1.0 0.9866918302408801
+3059
+Min, max, mean flux lya:  0.0 1.0 0.9859507186092267
+3060
+Min, max, mean flux lya:  0.0 1.0 0.9866532916642824
+3061
+Min, max, mean flux lya:  0.0 1.0 0.9871864178482461
+3062
+Min, max, mean flux lya:  0.0 1.0 0.9875862841877341
+3063
+Min, max, mean flux lya:  0.0 1.0 0.9871335184443824
+592
+Min, max, mean flux lya:  0.0 1.0 0.9866780100709971
+593
+Min, max, mean flux lya:  0.0 1.0 0.9863031375097829
+594
+Min, max, mean flux lya:  0.0 1.0 0.986250551323454
+595
+Min, max, mean flux lya:  0.0 1.0 0.9861243477051695
+596
+Min, max, mean flux lya:  0.0 1.0 0.9867390659853562
+597
+Min, max, mean flux lya:  0.0 1.0 0.9877101923462474
+598
+Min, max, mean flux lya:  0.0 1.0 0.9863642095909637
+599
+Min, max, mean flux lya:  0.0 1.0 0.9868650839619765
+2809
+Min, max, mean flux lya:  0.0 1.0 0.9857637787851323
+2810
+Min, max, mean flux lya:  0.0 1.0 0.9861579599922954
+2811
+Min, max, mean flux lya:  0.0 1.0 0.9873782500151843
+2812
+Min, max, mean flux lya:  0.0 1.0 0.9868663283874618
+2813
+Min, max, mean flux lya:  0.0 1.0 0.9864054962652073
+2814
+Min, max, mean flux lya:  0.0 1.0 0.9871571670249409
+2815
+Min, max, mean flux lya:  0.0 1.0 0.9865953720936245
+696
+Min, max, mean flux lya:  0.0 1.0 0.9871537492073625
+697
+Min, max, mean flux lya:  0.0 1.0 0.9877829637969404
+698
+Min, max, mean flux lya:  0.0 1.0 0.9871553691170426
+699
+Min, max, mean flux lya:  0.0 1.0 0.9867027753621224
+700
+Min, max, mean flux lya:  0.0 1.0 0.9877693124558502
+701
+Min, max, mean flux lya:  0.0 1.0 0.9866281575656438
+702
+Min, max, mean flux lya:  0.0 1.0 0.986607902631205
+703
+Min, max, mean flux lya:  0.0 1.0 0.9870232174455883
+1416
+Min, max, mean flux lya:  0.0 1.0 0.9863334682588298
+1417
+Min, max, mean flux lya:  0.0 1.0 0.9862103543981575
+1418
+Min, max, mean flux lya:  0.0 1.0 0.9866003512022157
+1419
+Min, max, mean flux lya:  0.0 1.0 0.986582222340238
+1420
+Min, max, mean flux lya:  0.0 1.0 0.9867771727888432
+1421
+Min, max, mean flux lya:  0.0 1.0 0.9861554354244484
+1422
+Min, max, mean flux lya:  0.0 1.0 0.9869320432413381
+1423
+Min, max, mean flux lya:  0.0 1.0 0.9861379761771419
+432
+Min, max, mean flux lya:  0.0 1.0 0.9863733017605708
+433
+Min, max, mean flux lya:  0.0 1.0 0.9868966199687056
+434
+Min, max, mean flux lya:  0.0 1.0 0.9862997645498431
+435
+Min, max, mean flux lya:  0.0 1.0 0.987209495596524
+436
+Min, max, mean flux lya:  0.0 1.0 0.9862108861027821
+437
+Min, max, mean flux lya:  0.0 1.0 0.9863019716251087
+438
+Min, max, mean flux lya:  0.0 1.0 0.9871687990605814
+439
+Min, max, mean flux lya:  0.0 1.0 0.9876581040335565
+1744
+Min, max, mean flux lya:  0.0 1.0 0.9870846540883236
+1745
+Min, max, mean flux lya:  0.0 1.0 0.9863150696611286
+1746
+Min, max, mean flux lya:  0.0 1.0 0.9870983272306103
+1747
+Min, max, mean flux lya:  0.0 1.0 0.9868762312686344
+1748
+Min, max, mean flux lya:  0.0 1.0 0.9864398515426601
+1749
+Min, max, mean flux lya:  0.0 1.0 0.9872450622897577
+1750
+Min, max, mean flux lya:  0.0 1.0 0.9866043442483575
+1751
+Min, max, mean flux lya:  0.0 1.0 0.9869636485378847
+936
+Min, max, mean flux lya:  0.0 1.0 0.9866317155121193
+937
+Min, max, mean flux lya:  0.0 1.0 0.9863638579249396
+938
+Min, max, mean flux lya:  0.0 1.0 0.9868499152846354
+939
+Min, max, mean flux lya:  0.0 1.0 0.986290998642301
+940
+Min, max, mean flux lya:  0.0 1.0 0.9860090766893123
+941
+Min, max, mean flux lya:  0.0 1.0 0.9867824108025826
+942
+Min, max, mean flux lya:  0.0 1.0 0.9865067367240717
+943
+Min, max, mean flux lya:  0.0 1.0 0.9871096616766806
+1624
+Min, max, mean flux lya:  0.0 1.0 0.9859716433526714
+1625
+Min, max, mean flux lya:  0.0 1.0 0.9856980765359526
+1626
+Min, max, mean flux lya:  0.0 1.0 0.9871826551730316
+1627
+Min, max, mean flux lya:  0.0 1.0 0.9873957599060257
+1628
+Min, max, mean flux lya:  0.0 1.0 0.9860523990917145
+1629
+Min, max, mean flux lya:  0.0 1.0 0.9860831217984714
+1630
+Min, max, mean flux lya:  0.0 1.0 0.9869616243171977
+1631
+Min, max, mean flux lya:  0.0 1.0 0.9869405591424228
+768
+Min, max, mean flux lya:  0.0 1.0 0.9865620920055846
+769
+Min, max, mean flux lya:  0.0 1.0 0.9866404433880062
+770
+Min, max, mean flux lya:  0.0 1.0 0.9862246995485804
+771
+Min, max, mean flux lya:  0.0 1.0 0.9865781495314825
+772
+Min, max, mean flux lya:  0.0 1.0 0.9872565319450575
+773
+Min, max, mean flux lya:  0.0 1.0 0.9861765702255367
+774
+Min, max, mean flux lya:  0.0 1.0 0.9875986655425214
+775
+Min, max, mean flux lya:  0.0 1.0 0.9871149608080654
+1688
+Min, max, mean flux lya:  0.0 1.0 0.9873516261023186
+1689
+Min, max, mean flux lya:  0.0 1.0 0.9872667871685714
+1690
+Min, max, mean flux lya:  0.0 1.0 0.9864719271525613
+1691
+Min, max, mean flux lya:  0.0 1.0 0.9866222418597713
+1692
+Min, max, mean flux lya:  0.0 1.0 0.9858997144010501
+1693
+Min, max, mean flux lya:  0.0 1.0 0.986562127300417
+1694
+Min, max, mean flux lya:  0.0 1.0 0.9866454958649581
+1695
+Min, max, mean flux lya:  0.0 1.0 0.98663879647958
+552
+Min, max, mean flux lya:  0.0 1.0 0.9863687850851436
+553
+Min, max, mean flux lya:  0.0 1.0 0.9864866927852727
+554
+Min, max, mean flux lya:  0.0 1.0 0.9868908556605042
+555
+Min, max, mean flux lya:  0.0 1.0 0.98685657832772
+556
+Min, max, mean flux lya:  0.0 1.0 0.9869027313116878
+557
+Min, max, mean flux lya:  0.0 1.0 0.9860701648839887
+558
+Min, max, mean flux lya:  0.0 1.0 0.9858411792620353
+559
+Min, max, mean flux lya:  0.0 1.0 0.9864071224458351
+1616
+Min, max, mean flux lya:  0.0 1.0 0.9859393006902057
+1617
+Min, max, mean flux lya:  0.0 1.0 0.9870662299421984
+1618
+Min, max, mean flux lya:  0.0 1.0 0.9863519216744051
+1619
+Min, max, mean flux lya:  0.0 1.0 0.9870890281444846
+1620
+Min, max, mean flux lya:  0.0 1.0 0.9867087240606711
+1621
+Min, max, mean flux lya:  0.0 1.0 0.9865449979705105
+1622
+Min, max, mean flux lya:  0.0 1.0 0.9868056853166859
+1623
+Min, max, mean flux lya:  0.0 1.0 0.9867398297474705
+664
+Min, max, mean flux lya:  0.0 1.0 0.9865141201486302
+665
+Min, max, mean flux lya:  0.0 1.0 0.9865574388665893
+666
+Min, max, mean flux lya:  0.0 1.0 0.987504849639834
+667
+Min, max, mean flux lya:  0.0 1.0 0.9864548408017052
+668
+Min, max, mean flux lya:  0.0 1.0 0.9870945887305377
+669
+Min, max, mean flux lya:  0.0 1.0 0.986527327962606
+670
+Min, max, mean flux lya:  0.0 1.0 0.9873452253685362
+671
+Min, max, mean flux lya:  0.0 1.0 0.9879000131795862
+1960
+Min, max, mean flux lya:  0.0 1.0 0.9865093679836944
+1961
+Min, max, mean flux lya:  0.0 1.0 0.9861962289125877
+1962
+Min, max, mean flux lya:  0.0 1.0 0.9863648307653549
+1963
+Min, max, mean flux lya:  0.0 1.0 0.9863478766688982
+1964
+Min, max, mean flux lya:  0.0 1.0 0.9865166688288363
+1965
+Min, max, mean flux lya:  0.0 1.0 0.9860400712416423
+1966
+Min, max, mean flux lya:  0.0 1.0 0.98696880487694
+1967
+Min, max, mean flux lya:  0.0 1.0 0.9860716039396413
+584
+Min, max, mean flux lya:  0.0 1.0 0.9869061996615995
+585
+Min, max, mean flux lya:  0.0 1.0 0.9865528439503366
+586
+Min, max, mean flux lya:  0.0 1.0 0.9862016363199747
+587
+Min, max, mean flux lya:  0.0 1.0 0.9863898383939069
+588
+Min, max, mean flux lya:  0.0 1.0 0.9872190389168891
+589
+Min, max, mean flux lya:  0.0 1.0 0.9866891374610469
+590
+Min, max, mean flux lya:  0.0 1.0 0.9870114399425848
+591
+Min, max, mean flux lya:  0.0 1.0 0.9859458905306736
+1656
+Min, max, mean flux lya:  0.0 1.0 0.9866679350818989
+1657
+Min, max, mean flux lya:  0.0 1.0 0.987163242284477
+1658
+Min, max, mean flux lya:  0.0 1.0 0.9870477039369382
+1659
+Min, max, mean flux lya:  0.0 1.0 0.9874293544534425
+1660
+Min, max, mean flux lya:  0.0 1.0 0.9862238101726312
+1661
+Min, max, mean flux lya:  0.0 1.0 0.9870575543498435
+1662
+Min, max, mean flux lya:  0.0 1.0 0.9868194319740201
+1663
+Min, max, mean flux lya:  0.0 1.0 0.9864406441516537
+448
+Min, max, mean flux lya:  0.0 1.0 0.9874259877088148
+449
+Min, max, mean flux lya:  0.0 1.0 0.9866452085907058
+450
+Min, max, mean flux lya:  0.0 1.0 0.9870700714120637
+451
+Min, max, mean flux lya:  0.0 1.0 0.9866347437773723
+452
+Min, max, mean flux lya:  0.0 1.0 0.9871232831586658
+453
+Min, max, mean flux lya:  0.0 1.0 0.9863417638467935
+454
+Min, max, mean flux lya:  0.0 1.0 0.9867148158144339
+455
+Min, max, mean flux lya:  0.0 1.0 0.9870956496962794
+1648
+Min, max, mean flux lya:  0.0 1.0 0.9865192605390694
+1649
+Min, max, mean flux lya:  0.0 1.0 0.9870486519715577
+1650
+Min, max, mean flux lya:  0.0 1.0 0.987013800034449
+1651
+Min, max, mean flux lya:  0.0 1.0 0.986861907590409
+1652
+Min, max, mean flux lya:  0.0 1.0 0.9867883685970561
+1653
+Min, max, mean flux lya:  0.0 1.0 0.9868454580190347
+1654
+Min, max, mean flux lya:  0.0 1.0 0.9870095599165523
+1655
+Min, max, mean flux lya:  0.0 1.0 0.9869085166280384
+648
+Min, max, mean flux lya:  0.0 1.0 0.9862586661499256
+649
+Min, max, mean flux lya:  0.0 1.0 0.9871297114789573
+650
+Min, max, mean flux lya:  0.0 1.0 0.9872121420354185
+651
+Min, max, mean flux lya:  0.0 1.0 0.9864677282218933
+652
+Min, max, mean flux lya:  0.0 1.0 0.9867611915713839
+653
+Min, max, mean flux lya:  0.0 1.0 0.9870805945322869
+654
+Min, max, mean flux lya:  0.0 1.0 0.9864840099673982
+655
+Min, max, mean flux lya:  0.0 1.0 0.9865162375191521
+2016
+Min, max, mean flux lya:  0.0 1.0 0.9870497406454001
+2017
+Min, max, mean flux lya:  0.0 1.0 0.9858183778864171
+2018
+Min, max, mean flux lya:  0.0 1.0 0.9860202016463798
+2019
+Min, max, mean flux lya:  0.0 1.0 0.9856817239525818
+2020
+Min, max, mean flux lya:  0.0 1.0 0.9857853147687894
+2021
+Min, max, mean flux lya:  0.0 1.0 0.9873055348106501
+2022
+Min, max, mean flux lya:  0.0 1.0 0.9864641861850753
+2023
+Min, max, mean flux lya:  0.0 1.0 0.9861933339476602
+280
+Min, max, mean flux lya:  0.0 1.0 0.9869527245603856
+281
+Min, max, mean flux lya:  0.0 1.0 0.9865139200677852
+282
+Min, max, mean flux lya:  0.0 1.0 0.9868586493552974
+283
+Min, max, mean flux lya:  0.0 1.0 0.9870338980956294
+284
+Min, max, mean flux lya:  0.0 1.0 0.9869341578005573
+285
+Min, max, mean flux lya:  0.0 1.0 0.986060726598885
+286
+Min, max, mean flux lya:  0.0 1.0 0.9866940394979341
+287
+Min, max, mean flux lya:  0.0 1.0 0.987296628133914
+1632
+Min, max, mean flux lya:  0.0 1.0 0.9863537569241253
+1633
+Min, max, mean flux lya:  0.0 1.0 0.9869591096517816
+1634
+Min, max, mean flux lya:  0.0 1.0 0.9860207866501958
+1635
+Min, max, mean flux lya:  0.0 1.0 0.986244074281799
+1636
+Min, max, mean flux lya:  0.0 1.0 0.9873527960187324
+1637
+Min, max, mean flux lya:  0.0 1.0 0.9861423452596948
+1638
+Min, max, mean flux lya:  0.0 1.0 0.9869232325403726
+1639
+Min, max, mean flux lya:  0.0 1.0 0.9862042265666908
+488
+Min, max, mean flux lya:  0.0 1.0 0.9876269748175034
+489
+Min, max, mean flux lya:  0.0 1.0 0.987447070389222
+490
+Min, max, mean flux lya:  0.0 1.0 0.9877327439747983
+491
+Min, max, mean flux lya:  0.0 1.0 0.9868068022847516
+492
+Min, max, mean flux lya:  0.0 1.0 0.9874777752828936
+493
+Min, max, mean flux lya:  0.0 1.0 0.987501327235375
+494
+Min, max, mean flux lya:  0.0 1.0 0.9868658451644757
+495
+Min, max, mean flux lya:  0.0 1.0 0.9871111948189055
+1736
+Min, max, mean flux lya:  0.0 1.0 0.987066397262324
+1737
+Min, max, mean flux lya:  0.0 1.0 0.9872192576299965
+1738
+Min, max, mean flux lya:  0.0 1.0 0.9863613089507283
+1739
+Min, max, mean flux lya:  0.0 1.0 0.9867072569446843
+1740
+Min, max, mean flux lya:  0.0 1.0 0.9861044698905147
+1741
+Min, max, mean flux lya:  0.0 1.0 0.9863126632923525
+1742
+Min, max, mean flux lya:  0.0 1.0 0.9870175685565488
+1743
+Min, max, mean flux lya:  0.0 1.0 0.9865965692246291
+832
+Min, max, mean flux lya:  0.0 1.0 0.987024963011589
+833
+Min, max, mean flux lya:  0.0 1.0 0.9859270233598589
+834
+Min, max, mean flux lya:  0.0 1.0 0.9870591003852062
+835
+Min, max, mean flux lya:  0.0 1.0 0.9865979739893961
+836
+Min, max, mean flux lya:  0.0 1.0 0.9871400451915253
+837
+Min, max, mean flux lya:  0.0 1.0 0.9867621819817659
+838
+Min, max, mean flux lya:  0.0 1.0 0.9863060292223715
+839
+Min, max, mean flux lya:  0.0 1.0 0.9864667651420207
+1768
+Min, max, mean flux lya:  0.0 1.0 0.9870969069923922
+1769
+Min, max, mean flux lya:  0.0 1.0 0.9869440745894288
+1770
+Min, max, mean flux lya:  0.0 1.0 0.9867686684903426
+1771
+Min, max, mean flux lya:  0.0 1.0 0.9870882840152798
+1772
+Min, max, mean flux lya:  0.0 1.0 0.9870528559381618
+1773
+Min, max, mean flux lya:  0.0 1.0 0.9871272651410231
+1774
+Min, max, mean flux lya:  0.0 1.0 0.9867051412876232
+1775
+Min, max, mean flux lya:  0.0 1.0 0.9868032072674264
+1096
+Min, max, mean flux lya:  0.0 1.0 0.9867858903546087
+1097
+Min, max, mean flux lya:  0.0 1.0 0.986848904612615
+1098
+Min, max, mean flux lya:  0.0 1.0 0.9867469631429745
+1099
+Min, max, mean flux lya:  0.0 1.0 0.9861943523455516
+1100
+Min, max, mean flux lya:  0.0 1.0 0.9878871143152238
+1101
+Min, max, mean flux lya:  0.0 1.0 0.9866747275468316
+1102
+Min, max, mean flux lya:  0.0 1.0 0.9869942766012024
+1103
+Min, max, mean flux lya:  0.0 1.0 0.9869617089503003
+1760
+Min, max, mean flux lya:  0.0 1.0 0.9871760924179461
+1761
+Min, max, mean flux lya:  0.0 1.0 0.9872369892316273
+1762
+Min, max, mean flux lya:  0.0 1.0 0.9871813135966961
+1763
+Min, max, mean flux lya:  0.0 1.0 0.9871998139916656
+1764
+Min, max, mean flux lya:  0.0 1.0 0.986980323361211
+1765
+Min, max, mean flux lya:  0.0 1.0 0.9865370973724759
+1766
+Min, max, mean flux lya:  0.0 1.0 0.987652169066763
+1767
+Min, max, mean flux lya:  0.0 1.0 0.9861407984600885
+128
+Min, max, mean flux lya:  0.0 1.0 0.9867436065115985
+129
+Min, max, mean flux lya:  0.0 1.0 0.9866532334912522
+130
+Min, max, mean flux lya:  0.0 1.0 0.9866507902574846
+131
+Min, max, mean flux lya:  0.0 1.0 0.9861887223034949
+132
+Min, max, mean flux lya:  0.0 1.0 0.9866466103899114
+133
+Min, max, mean flux lya:  0.0 1.0 0.9868628311295764
+134
+Min, max, mean flux lya:  0.0 1.0 0.9874405312794367
+135
+Min, max, mean flux lya:  0.0 1.0 0.9864692443293948
+1696
+Min, max, mean flux lya:  0.0 1.0 0.9868474910573405
+1697
+Min, max, mean flux lya:  0.0 1.0 0.9864754335686267
+1698
+Min, max, mean flux lya:  0.0 1.0 0.9866814836401753
+1699
+Min, max, mean flux lya:  0.0 1.0 0.9869946998295133
+1700
+Min, max, mean flux lya:  0.0 1.0 0.9868873951857805
+1701
+Min, max, mean flux lya:  0.0 1.0 0.9870374985762654
+1702
+Min, max, mean flux lya:  0.0 1.0 0.9867406122875594
+1703
+Min, max, mean flux lya:  0.0 1.0 0.9864747801159486
+688
+Min, max, mean flux lya:  0.0 1.0 0.9871899827997919
+689
+Min, max, mean flux lya:  0.0 1.0 0.9872529161171238
+690
+Min, max, mean flux lya:  0.0 1.0 0.9874843779908489
+691
+Min, max, mean flux lya:  0.0 1.0 0.9864077141552137
+692
+Min, max, mean flux lya:  0.0 1.0 0.9871566421670485
+693
+Min, max, mean flux lya:  0.0 1.0 0.9867293547191521
+694
+Min, max, mean flux lya:  0.0 1.0 0.98678375915101
+695
+Min, max, mean flux lya:  0.0 1.0 0.9874340328491642
+1776
+Min, max, mean flux lya:  0.0 1.0 0.9854655226446467
+1777
+Min, max, mean flux lya:  0.0 1.0 0.9874032798432827
+1778
+Min, max, mean flux lya:  0.0 1.0 0.986462093280286
+1779
+Min, max, mean flux lya:  0.0 1.0 0.9855256156953771
+1780
+Min, max, mean flux lya:  0.0 1.0 0.9870117454443015
+1781
+Min, max, mean flux lya:  0.0 1.0 0.9873024621660397
+1782
+Min, max, mean flux lya:  0.0 1.0 0.9864888309062158
+1783
+Min, max, mean flux lya:  0.0 1.0 0.9861369273785816
+40
+Min, max, mean flux lya:  0.0 1.0 0.9874097293374895
+41
+Min, max, mean flux lya:  0.0 1.0 0.9860956106121597
+42
+Min, max, mean flux lya:  0.0 1.0 0.986936395125439
+43
+Min, max, mean flux lya:  0.0 1.0 0.986884071750605
+44
+Min, max, mean flux lya:  0.0 1.0 0.9872375597061684
+45
+Min, max, mean flux lya:  0.0 1.0 0.9865070756530323
+46
+Min, max, mean flux lya:  0.0 1.0 0.9864792678686226
+47
+Min, max, mean flux lya:  0.0 1.0 0.9869234002886937
+2288
+Min, max, mean flux lya:  0.0 1.0 0.9870352532771559
+2289
+Min, max, mean flux lya:  0.0 1.0 0.9867676255752021
+2290
+Min, max, mean flux lya:  0.0 1.0 0.9864194784679652
+2291
+Min, max, mean flux lya:  0.0 1.0 0.9868445839356177
+2292
+Min, max, mean flux lya:  0.0 1.0 0.9865008863853079
+2293
+Min, max, mean flux lya:  0.0 1.0 0.9869784915573554
+2294
+Min, max, mean flux lya:  0.0 1.0 0.9862949520580798
+2295
+Min, max, mean flux lya:  0.0 1.0 0.9868201498905103
+632
+Min, max, mean flux lya:  0.0 1.0 0.9868908045160212
+633
+Min, max, mean flux lya:  0.0 1.0 0.9873710942958877
+634
+Min, max, mean flux lya:  0.0 1.0 0.9871000934860293
+635
+Min, max, mean flux lya:  0.0 1.0 0.9867517472277721
+636
+Min, max, mean flux lya:  0.0 1.0 0.9868550974868536
+637
+Min, max, mean flux lya:  0.0 1.0 0.9881216103608536
+638
+Min, max, mean flux lya:  0.0 1.0 0.986635483428495
+639
+Min, max, mean flux lya:  0.0 1.0 0.9872116886205755
+1408
+Min, max, mean flux lya:  0.0 1.0 0.9857344499543633
+1409
+Min, max, mean flux lya:  0.0 1.0 0.9857674972945734
+1410
+Min, max, mean flux lya:  0.0 1.0 0.9856575205966903
+1411
+Min, max, mean flux lya:  0.0 1.0 0.986490675662381
+1412
+Min, max, mean flux lya:  0.0 1.0 0.985970309693593
+1413
+Min, max, mean flux lya:  0.0 1.0 0.9866740299326615
+1414
+Min, max, mean flux lya:  0.0 1.0 0.9859665873195679
+1415
+Min, max, mean flux lya:  0.0 1.0 0.9865450809299869
+600
+Min, max, mean flux lya:  0.0 1.0 0.9862293907402951
+601
+Min, max, mean flux lya:  0.0 1.0 0.9871966790062561
+602
+Min, max, mean flux lya:  0.0 1.0 0.9856630898299187
+603
+Min, max, mean flux lya:  0.0 1.0 0.9871449350342805
+604
+Min, max, mean flux lya:  0.0 1.0 0.9866357135473838
+605
+Min, max, mean flux lya:  0.0 1.0 0.9872266871555828
+606
+Min, max, mean flux lya:  0.0 1.0 0.9877849618934536
+607
+Min, max, mean flux lya:  0.0 1.0 0.9867145109146463
+1752
+Min, max, mean flux lya:  0.0 1.0 0.9863950160523546
+1753
+Min, max, mean flux lya:  0.0 1.0 0.986252210051737
+1754
+Min, max, mean flux lya:  0.0 1.0 0.9865135010919607
+1755
+Min, max, mean flux lya:  0.0 1.0 0.9871720236124718
+1756
+Min, max, mean flux lya:  0.0 1.0 0.9864874596183253
+1757
+Min, max, mean flux lya:  0.0 1.0 0.9862900723299374
+1758
+Min, max, mean flux lya:  0.0 1.0 0.9869078821909502
+1759
+Min, max, mean flux lya:  0.0 1.0 0.9863968614076151
+608
+Min, max, mean flux lya:  0.0 1.0 0.9868063724547249
+609
+Min, max, mean flux lya:  0.0 1.0 0.9860903137185287
+610
+Min, max, mean flux lya:  0.0 1.0 0.9865601704156949
+611
+Min, max, mean flux lya:  0.0 1.0 0.9872177467111032
+612
+Min, max, mean flux lya:  0.0 1.0 0.9867619074539069
+613
+Min, max, mean flux lya:  0.0 1.0 0.9871803264702982
+614
+Min, max, mean flux lya:  0.0 1.0 0.9869127759542713
+615
+Min, max, mean flux lya:  0.0 1.0 0.9866056889554821
+1976
+Min, max, mean flux lya:  0.0 1.0 0.9860468654753727
+1977
+Min, max, mean flux lya:  0.0 1.0 0.9857178061952296
+1978
+Min, max, mean flux lya:  0.0 1.0 0.9863818058447675
+1979
+Min, max, mean flux lya:  0.0 1.0 0.9863903990589851
+1980
+Min, max, mean flux lya:  0.0 1.0 0.9861059941031021
+1981
+Min, max, mean flux lya:  0.0 1.0 0.9858522587542965
+1982
+Min, max, mean flux lya:  0.0 1.0 0.9868392972415698
+1983
+Min, max, mean flux lya:  0.0 1.0 0.986401672991875
+752
+Min, max, mean flux lya:  0.0 1.0 0.9874365348678412
+753
+Min, max, mean flux lya:  0.0 1.0 0.9868554230331802
+754
+Min, max, mean flux lya:  0.0 1.0 0.9870170180798524
+755
+Min, max, mean flux lya:  0.0 1.0 0.9869062735042006
+756
+Min, max, mean flux lya:  0.0 1.0 0.9874036027851174
+757
+Min, max, mean flux lya:  0.0 1.0 0.9871561043855859
+758
+Min, max, mean flux lya:  0.0 1.0 0.9871842842043949
+759
+Min, max, mean flux lya:  0.0 1.0 0.9875135502411371
+1968
+Min, max, mean flux lya:  0.0 1.0 0.9860875919900496
+1969
+Min, max, mean flux lya:  0.0 1.0 0.9853648683527432
+1970
+Min, max, mean flux lya:  0.0 1.0 0.9861821512672091
+1971
+Min, max, mean flux lya:  0.0 1.0 0.9861585608271457
+1972
+Min, max, mean flux lya:  0.0 1.0 0.9863876320957404
+1973
+Min, max, mean flux lya:  0.0 1.0 0.9858531096079651
+1974
+Min, max, mean flux lya:  0.0 1.0 0.9864118796891798
+1975
+Min, max, mean flux lya:  0.0 1.0 0.9866530723865082
+680
+Min, max, mean flux lya:  0.0 1.0 0.9865815801518767
+681
+Min, max, mean flux lya:  0.0 1.0 0.9866962738447033
+682
+Min, max, mean flux lya:  0.0 1.0 0.986181898871252
+683
+Min, max, mean flux lya:  0.0 1.0 0.9872924998171404
+684
+Min, max, mean flux lya:  0.0 1.0 0.9874754291319534
+685
+Min, max, mean flux lya:  0.0 1.0 0.9863380151188392
+686
+Min, max, mean flux lya:  0.0 1.0 0.9868385081972629
+687
+Min, max, mean flux lya:  0.0 1.0 0.9868340964940986
+1640
+Min, max, mean flux lya:  0.0 1.0 0.9868759249983237
+1641
+Min, max, mean flux lya:  0.0 1.0 0.9865237247437783
+1642
+Min, max, mean flux lya:  0.0 1.0 0.9867987074263224
+1643
+Min, max, mean flux lya:  0.0 1.0 0.9862608792944944
+1644
+Min, max, mean flux lya:  0.0 1.0 0.9858842720428141
+1645
+Min, max, mean flux lya:  0.0 1.0 0.9865030688239348
+1646
+Min, max, mean flux lya:  0.0 1.0 0.9860168675916496
+1647
+Min, max, mean flux lya:  0.0 1.0 0.9865105854469105
+560
+Min, max, mean flux lya:  0.0 1.0 0.9865498473053718
+561
+Min, max, mean flux lya:  0.0 1.0 0.98637540322041
+562
+Min, max, mean flux lya:  0.0 1.0 0.9854855039002102
+563
+Min, max, mean flux lya:  0.0 1.0 0.9862405509337004
+564
+Min, max, mean flux lya:  0.0 1.0 0.9866707751931989
+565
+Min, max, mean flux lya:  0.0 1.0 0.9869452056132145
+566
+Min, max, mean flux lya:  0.0 1.0 0.9862479793617352
+567
+Min, max, mean flux lya:  0.0 1.0 0.9867905463969315
+1680
+Min, max, mean flux lya:  0.0 1.0 0.9864553239186377
+1681
+Min, max, mean flux lya:  0.0 1.0 0.987032811690742
+1682
+Min, max, mean flux lya:  0.0 1.0 0.9863724340334655
+1683
+Min, max, mean flux lya:  0.0 1.0 0.9869007099290174
+1684
+Min, max, mean flux lya:  0.0 1.0 0.9866380172681362
+1685
+Min, max, mean flux lya:  0.0 1.0 0.9862979976979335
+1686
+Min, max, mean flux lya:  0.0 1.0 0.9864128810064207
+1687
+Min, max, mean flux lya:  0.0 1.0 0.9870362367900772
+384
+Min, max, mean flux lya:  0.0 1.0 0.9862747169965476
+385
+Min, max, mean flux lya:  0.0 1.0 0.9871397856470024
+386
+Min, max, mean flux lya:  0.0 1.0 0.9859125954230415
+387
+Min, max, mean flux lya:  0.0 1.0 0.9867821310008603
+388
+Min, max, mean flux lya:  0.0 1.0 0.9869737693458398
+389
+Min, max, mean flux lya:  0.0 1.0 0.9864981801566852
+390
+Min, max, mean flux lya:  0.0 1.0 0.9860368664749599
+391
+Min, max, mean flux lya:  0.0 1.0 0.9861784845881425
+2024
+Min, max, mean flux lya:  0.0 1.0 0.9865852007949114
+2025
+Min, max, mean flux lya:  0.0 1.0 0.9861216850201123
+2026
+Min, max, mean flux lya:  0.0 1.0 0.9863370465040038
+2027
+Min, max, mean flux lya:  0.0 1.0 0.9864225546944917
+2028
+Min, max, mean flux lya:  0.0 1.0 0.9860293999929189
+2029
+Min, max, mean flux lya:  0.0 1.0 0.9863847718674743
+2030
+Min, max, mean flux lya:  0.0 1.0 0.986123298668028
+2031
+Min, max, mean flux lya:  0.0 1.0 0.9866889001841159
+744
+Min, max, mean flux lya:  0.0 1.0 0.9867180418435733
+745
+Min, max, mean flux lya:  0.0 1.0 0.9869526645984695
+746
+Min, max, mean flux lya:  0.0 1.0 0.9871916700018388
+747
+Min, max, mean flux lya:  0.0 1.0 0.9871933206948315
+748
+Min, max, mean flux lya:  0.0 1.0 0.9871779752000448
+749
+Min, max, mean flux lya:  0.0 1.0 0.9863316576185672
+750
+Min, max, mean flux lya:  0.0 1.0 0.9865529207029089
+751
+Min, max, mean flux lya:  0.0 1.0 0.9867853966667792
+1720
+Min, max, mean flux lya:  0.0 1.0 0.9872221138692799
+1721
+Min, max, mean flux lya:  0.0 1.0 0.98695695561593
+1722
+Min, max, mean flux lya:  0.0 1.0 0.9860229908510394
+1723
+Min, max, mean flux lya:  0.0 1.0 0.9867609036793051
+1724
+Min, max, mean flux lya:  0.0 1.0 0.9869214823969185
+1725
+Min, max, mean flux lya:  0.0 1.0 0.9868062574921274
+1726
+Min, max, mean flux lya:  0.0 1.0 0.9863953108399884
+1727
+Min, max, mean flux lya:  0.0 1.0 0.9867026379421583
+728
+Min, max, mean flux lya:  0.0 1.0 0.9874176517860423
+729
+Min, max, mean flux lya:  0.0 1.0 0.986480328511969
+730
+Min, max, mean flux lya:  0.0 1.0 0.9861453358211513
+731
+Min, max, mean flux lya:  0.0 1.0 0.9868968252596496
+732
+Min, max, mean flux lya:  0.0 1.0 0.9871319594359984
+733
+Min, max, mean flux lya:  0.0 1.0 0.986739587015928
+734
+Min, max, mean flux lya:  0.0 1.0 0.987163215047557
+735
+Min, max, mean flux lya:  0.0 1.0 0.9873009504997835
+1712
+Min, max, mean flux lya:  0.0 1.0 0.9869252943268201
+1713
+Min, max, mean flux lya:  0.0 1.0 0.9868334202280702
+1714
+Min, max, mean flux lya:  0.0 1.0 0.986701281310402
+1715
+Min, max, mean flux lya:  0.0 1.0 0.9872613166586625
+1716
+Min, max, mean flux lya:  0.0 1.0 0.9873318916788116
+1717
+Min, max, mean flux lya:  0.0 1.0 0.9863402793332379
+1718
+Min, max, mean flux lya:  0.0 1.0 0.986459388043867
+1719
+Min, max, mean flux lya:  0.0 1.0 0.9868703216819096
+512
+Min, max, mean flux lya:  0.0 1.0 0.9867789809192358
+513
+Min, max, mean flux lya:  0.0 1.0 0.9869272512646072
+514
+Min, max, mean flux lya:  0.0 1.0 0.9867500959556251
+515
+Min, max, mean flux lya:  0.0 1.0 0.9864018187698302
+516
+Min, max, mean flux lya:  0.0 1.0 0.9868947193770478
+517
+Min, max, mean flux lya:  0.0 1.0 0.9862774745630575
+518
+Min, max, mean flux lya:  0.0 1.0 0.9872136977554032
+519
+Min, max, mean flux lya:  0.0 1.0 0.9865906045124888
+1704
+Min, max, mean flux lya:  0.0 1.0 0.9862557782164783
+1705
+Min, max, mean flux lya:  0.0 1.0 0.9864266276009742
+1706
+Min, max, mean flux lya:  0.0 1.0 0.9859520709259086
+1707
+Min, max, mean flux lya:  0.0 1.0 0.9866239402014255
+1708
+Min, max, mean flux lya:  0.0 1.0 0.985965820996436
+1709
+Min, max, mean flux lya:  0.0 1.0 0.9871670187967827
+1710
+Min, max, mean flux lya:  0.0 1.0 0.9867846774828241
+1711
+Min, max, mean flux lya:  0.0 1.0 0.9864437762748676
+576
+Min, max, mean flux lya:  0.0 1.0 0.9861133297958153
+577
+Min, max, mean flux lya:  0.0 1.0 0.9859619426256434
+578
+Min, max, mean flux lya:  0.0 1.0 0.9867266638086
+579
+Min, max, mean flux lya:  0.0 1.0 0.9868188885387532
+580
+Min, max, mean flux lya:  0.0 1.0 0.9864804743592194
+581
+Min, max, mean flux lya:  0.0 1.0 0.9864917389638788
+582
+Min, max, mean flux lya:  0.0 1.0 0.9864519910081598
+583
+Min, max, mean flux lya:  0.0 1.0 0.9863868179364863
+1784
+Min, max, mean flux lya:  0.0 1.0 0.985806491914107
+1785
+Min, max, mean flux lya:  0.0 1.0 0.9863686233824899
+1786
+Min, max, mean flux lya:  0.0 1.0 0.9864961311313214
+1787
+Min, max, mean flux lya:  0.0 1.0 0.9871057714038071
+1788
+Min, max, mean flux lya:  0.0 1.0 0.987023036261891
+1789
+Min, max, mean flux lya:  0.0 1.0 0.9860978812528937
+1790
+Min, max, mean flux lya:  0.0 1.0 0.9868717758441706
+1791
+Min, max, mean flux lya:  0.0 1.0 0.9866365010115847
+32
+Min, max, mean flux lya:  0.0 1.0 0.9866570749657377
+33
+Min, max, mean flux lya:  0.0 1.0 0.9863463188333419
+34
+Min, max, mean flux lya:  0.0 1.0 0.9871342991758695
+35
+Min, max, mean flux lya:  0.0 1.0 0.9864476981453402
+36
+Min, max, mean flux lya:  0.0 1.0 0.9862227586087944
+37
+Min, max, mean flux lya:  0.0 1.0 0.986793164403437
+38
+Min, max, mean flux lya:  0.0 1.0 0.9864374785590443
+39
+Min, max, mean flux lya:  0.0 1.0 0.9872071967287411
+2296
+Min, max, mean flux lya:  0.0 1.0 0.9857271471800599
+2297
+Min, max, mean flux lya:  0.0 1.0 0.9861833798317797
+2298
+Min, max, mean flux lya:  0.0 1.0 0.9871619972645317
+2299
+Min, max, mean flux lya:  0.0 1.0 0.9865782015483858
+2300
+Min, max, mean flux lya:  0.0 1.0 0.9871252375801706
+2301
+Min, max, mean flux lya:  0.0 1.0 0.9869573227297345
+2302
+Min, max, mean flux lya:  0.0 1.0 0.9870024017833425
+2303
+Min, max, mean flux lya:  0.0 1.0 0.9869898868500898
+544
+Min, max, mean flux lya:  0.0 1.0 0.9867541189719855
+545
+Min, max, mean flux lya:  0.0 1.0 0.9863763461346415
+546
+Min, max, mean flux lya:  0.0 1.0 0.9862389108439498
+547
+Min, max, mean flux lya:  0.0 1.0 0.9855557224569541
+548
+Min, max, mean flux lya:  0.0 1.0 0.9864342732157924
+549
+Min, max, mean flux lya:  0.0 1.0 0.9862653328044997
+550
+Min, max, mean flux lya:  0.0 1.0 0.9861384223057035
+551
+Min, max, mean flux lya:  0.0 1.0 0.9867844558501031
+1728
+Min, max, mean flux lya:  0.0 1.0 0.986699869340497
+1729
+Min, max, mean flux lya:  0.0 1.0 0.9862570362764225
+1730
+Min, max, mean flux lya:  0.0 1.0 0.9868612205007887
+1731
+Min, max, mean flux lya:  0.0 1.0 0.9863676566913137
+1732
+Min, max, mean flux lya:  0.0 1.0 0.9863505110416584
+1733
+Min, max, mean flux lya:  0.0 1.0 0.9866645839220348
+1734
+Min, max, mean flux lya:  0.0 1.0 0.9867985789828974
+1735
+Min, max, mean flux lya:  0.0 1.0 0.9866387886673887
+672
+Min, max, mean flux lya:  0.0 1.0 0.9871448885152267
+673
+Min, max, mean flux lya:  0.0 1.0 0.9875795720247887
+674
+Min, max, mean flux lya:  0.0 1.0 0.9867239272840391
+675
+Min, max, mean flux lya:  0.0 1.0 0.9876146060310999
+676
+Min, max, mean flux lya:  0.0 1.0 0.9871332636564373
+677
+Min, max, mean flux lya:  0.0 1.0 0.9867528124843407
+678
+Min, max, mean flux lya:  0.0 1.0 0.9877239684085101
+679
+Min, max, mean flux lya:  0.0 1.0 0.9862865970948977
+2040
+Min, max, mean flux lya:  0.0 1.0 0.987146819844722
+2041
+Min, max, mean flux lya:  0.0 1.0 0.9869080858186826
+2042
+Min, max, mean flux lya:  0.0 1.0 0.9873453031305185
+2043
+Min, max, mean flux lya:  0.0 1.0 0.9861879313020151
+2044
+Min, max, mean flux lya:  0.0 1.0 0.9865709697582566
+2045
+Min, max, mean flux lya:  0.0 1.0 0.9865576588397517
+2046
+Min, max, mean flux lya:  0.0 1.0 0.9871659816697053
+2047
+Min, max, mean flux lya:  0.0 1.0 0.9869812274527243
+256
+Min, max, mean flux lya:  0.0 1.0 0.9866070357595367
+257
+Min, max, mean flux lya:  0.0 1.0 0.9866293648313272
+258
+Min, max, mean flux lya:  0.0 1.0 0.9862630257677698
+259
+Min, max, mean flux lya:  0.0 1.0 0.9871764760109352
+260
+Min, max, mean flux lya:  0.0 1.0 0.9858892732237078
+261
+Min, max, mean flux lya:  0.0 1.0 0.9860175656201099
+262
+Min, max, mean flux lya:  0.0 1.0 0.9855657494678127
+263
+Min, max, mean flux lya:  0.0 1.0 0.9867653238559327
+3064
+Min, max, mean flux lya:  0.0 1.0 0.9873000570924139
+3065
+Min, max, mean flux lya:  0.0 1.0 0.9866376465132851
+3066
+Min, max, mean flux lya:  0.0 1.0 0.9867269988145495
+3067
+Min, max, mean flux lya:  0.0 1.0 0.9875116736377189
+3068
+Min, max, mean flux lya:  0.0 1.0 0.986124534630695
+3069
+Min, max, mean flux lya:  0.0 1.0 0.9868633123647937
+3070
+Min, max, mean flux lya:  0.0 1.0 0.9866287478895447
+3071
+Min, max, mean flux lya:  0.0 1.0 0.9873765390268701
+Elapsed 34.970235617955524 minutes ...

@@ -1,0 +1,38 @@
+#---------------------------------------------------------------------
+# LIGHTCONE: parameter file
+#---------------------------------------------------------------------
+seed = 1
+#---------------------------------------------------------------------
+Nx = 1800 #144   # Number of pixels x 
+#---------------------------------------------------------------------
+Lx = 10000. #592.5  # Box length in x-direction [Mpc/h] 
+#---------------------------------------------------------------------
+fnameIC =# deltaBOXOM0.307OL0.693G200V1000.0_ALPTrs6.000z0.200.dat  # DATA/UNITSIM_fixed_amp_L1000_Nft256_IC1_CICc.dat # Attention no space after = unless you give a name
+fnameDM = dm_lc_zspace_cells #deltaBOXOM0.307OL0.693G200V1000.0_ALPTrs6.000z0.000.dat # deltaBOXOM0.307OL0.693G256V1000.0_ALPTrs6.000z0.000 # grid_t1w # deltaICOM0.307OL0.693G75V300.0 #deltaBOXOM0.307OL0.693G75V300.0_ALPTrs6.000z0.000  #deltaBOXOM0.307OL0.693G256V1000.0_ALPTrs6.000z1.032.dat #deltaBOXOM0.307OL0.693G256V1000.0rs6.000z1.000.dat # deltaBOXOM0.307OL0.693G256V1000.0_ALPTrs6.000z1.000.dat  #deltaBOXOM0.307OL0.693G256V1000.0_ALPTrs6.000z0.000.dat 
+sfmodel = -1
+rsml = 50.0
+dtol = 0.005
+curlfrac = 0
+write_box = true
+check_calibration = true
+#---------------------------------------------------------------------
+z = 0.
+zref = 0.
+slength = 6
+#---------------------------------------------------------------------
+watershed = true
+tcw = 4
+tcwD = 1234
+deltath = -0.1
+lth = 0. # lambdath phi-web
+lthD = 0.0 # lambdath delta-web
+alpha = 0.5
+#---------------------------------------------------------------------
+NsnapOMP = 8
+zsnapsmin = 1.77
+zsnapsmax = 3.8
+#---------------------------------------------------------------------
+xllc = -5000.
+yllc = -5000.
+zllc = -5000.
+#---------------------------------------------------------------------
